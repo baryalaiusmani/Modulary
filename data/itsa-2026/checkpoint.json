@@ -1,0 +1,4118 @@
+[
+  {
+    "unternehmensname": "1&1 Versatel GmbH",
+    "domain": "www.1und1.net",
+    "ansprechpartner": "",
+    "email": "info@1und1.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/11-versatel-gmbh-2576218"
+  },
+  {
+    "unternehmensname": "1Password",
+    "domain": "1password.com",
+    "ansprechpartner": "",
+    "email": "carrie.furnari@agilebits.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/1password-2577385"
+  },
+  {
+    "unternehmensname": "4Networks - IT Distribution",
+    "domain": "www.4networks.de",
+    "ansprechpartner": "",
+    "email": "bernd.eisenhauer@4networks.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/4networks-it-distribution-2575385"
+  },
+  {
+    "unternehmensname": "8com Cyber Security",
+    "domain": "www.8com.de",
+    "ansprechpartner": "",
+    "email": "info@8com.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/8com-cyber-security-2576726"
+  },
+  {
+    "unternehmensname": "@-yet GmbH",
+    "domain": "www.at-yet.de",
+    "ansprechpartner": "",
+    "email": "info@at-yet.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/-yet-gmbh-2576256"
+  },
+  {
+    "unternehmensname": "A1 Digital",
+    "domain": "www.a1.digital",
+    "ansprechpartner": "",
+    "email": "info@a1.digital",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/a1-digital-2575642"
+  },
+  {
+    "unternehmensname": "AAEON Technology Europe B.V.",
+    "domain": "www.aaeon.com",
+    "ansprechpartner": "",
+    "email": "marketing@aaeon.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/aaeon-technology-europe-bv-2575681"
+  },
+  {
+    "unternehmensname": "Aagon GmbH",
+    "domain": "www.aagon.com",
+    "ansprechpartner": "",
+    "email": "eventteam@aagon.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/aagon-gmbh-2576984"
+  },
+  {
+    "unternehmensname": "abilis GmbH",
+    "domain": "www.abilis.de",
+    "ansprechpartner": "",
+    "email": "marketing@abilis.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/abilis-gmbh-2613011"
+  },
+  {
+    "unternehmensname": "Abnormal AI",
+    "domain": "abnormal.ai",
+    "ansprechpartner": "",
+    "email": "events@abnormalsecurity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/abnormal-ai-2576993"
+  },
+  {
+    "unternehmensname": "achelos GmbH",
+    "domain": "www.achelos.de",
+    "ansprechpartner": "",
+    "email": "info@achelos.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/achelos-gmbh-2577938"
+  },
+  {
+    "unternehmensname": "aconitas GmbH",
+    "domain": "www.aconitas.com",
+    "ansprechpartner": "",
+    "email": "info@aconitas.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/aconitas-gmbh-2575541"
+  },
+  {
+    "unternehmensname": "ACP Holding Deutschland GmbH",
+    "domain": "www.acp-gruppe.com",
+    "ansprechpartner": "",
+    "email": "marketing@acp.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/acp-holding-deutschland-gmbh-2575951"
+  },
+  {
+    "unternehmensname": "Acronis",
+    "domain": "www.acronis.de",
+    "ansprechpartner": "",
+    "email": "info@acronis.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/acronis-2577021"
+  },
+  {
+    "unternehmensname": "ActiDoo GmbH",
+    "domain": "actidoo.com",
+    "ansprechpartner": "",
+    "email": "info@actidoo.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/actidoo-gmbh-2613005"
+  },
+  {
+    "unternehmensname": "Admin By Request",
+    "domain": "www.adminbyrequest.com",
+    "ansprechpartner": "",
+    "email": "germany@adminbyrequest.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/admin-by-request-2601434"
+  },
+  {
+    "unternehmensname": "ADN Advanced Digital Network Distribution GmbH",
+    "domain": "www.adn.de",
+    "ansprechpartner": "",
+    "email": "info@adn.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/adn-advanced-digital-network-distribution-gmbh-2584186"
+  },
+  {
+    "unternehmensname": "Adva Network Security",
+    "domain": "www.advasecurity.com",
+    "ansprechpartner": "",
+    "email": "info@advasecurity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/adva-network-security-2575472"
+  },
+  {
+    "unternehmensname": "ADVANTAGE AUSTRIA München",
+    "domain": "www.advantageaustria.org/de",
+    "ansprechpartner": "",
+    "email": "muenchen@advantageaustria.org",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/advantage-austria-muenchen-2576380"
+  },
+  {
+    "unternehmensname": "agilimo Consulting GmbH",
+    "domain": "agilimo.de",
+    "ansprechpartner": "",
+    "email": "info@agilimo.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/agilimo-consulting-gmbh-2577887"
+  },
+  {
+    "unternehmensname": "Airbus Protect GmbH",
+    "domain": "airbus-cyber-security.com",
+    "ansprechpartner": "",
+    "email": "cybersecuritysales-dach@airbus.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/airbus-protect-gmbh-2614717"
+  },
+  {
+    "unternehmensname": "AirID GmbH",
+    "domain": "www.airid.com",
+    "ansprechpartner": "",
+    "email": "salvatore.zaccheddu@airid.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/airid-gmbh-2577914"
+  },
+  {
+    "unternehmensname": "AirITSystems GmbH",
+    "domain": "www.airitsystems.de",
+    "ansprechpartner": "",
+    "email": "info@airitsystems.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/airitsystems-gmbh-2576751"
+  },
+  {
+    "unternehmensname": "Airlock",
+    "domain": "www.airlock.com",
+    "ansprechpartner": "",
+    "email": "info@airlock.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/airlock-2576122"
+  },
+  {
+    "unternehmensname": "AIT Austrian Institute Of Technology Gmbh",
+    "domain": "www.ait.ac.at",
+    "ansprechpartner": "",
+    "email": "iman.kulitz@ait.ac.at",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ait-austrian-institute-of-technology-gmbh-2576424"
+  },
+  {
+    "unternehmensname": "aixom GmbH",
+    "domain": "www.aixom.de",
+    "ansprechpartner": "",
+    "email": "silke.westphal@aixom.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/aixom-gmbh-2607886"
+  },
+  {
+    "unternehmensname": "Akamai Technologies GmbH",
+    "domain": "www.akamai.com/de/why-akamai",
+    "ansprechpartner": "",
+    "email": "corporate-emea@akamai.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/akamai-technologies-gmbh-2575737"
+  },
+  {
+    "unternehmensname": "AKARION AG",
+    "domain": "akarion.com/de",
+    "ansprechpartner": "",
+    "email": "munich@akarion.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/akarion-ag-2577002"
+  },
+  {
+    "unternehmensname": "ALEF Group",
+    "domain": "www.alef.com/ww",
+    "ansprechpartner": "",
+    "email": "info@alef.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/alef-group-2577902"
+  },
+  {
+    "unternehmensname": "AlgoSec Europe",
+    "domain": "www.algosec.com",
+    "ansprechpartner": "",
+    "email": "david.jacks@algosec.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/algosec-europe-2575781"
+  },
+  {
+    "unternehmensname": "All for One Group SE",
+    "domain": "www.all-for-one.com",
+    "ansprechpartner": "",
+    "email": "info@all-for-one.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/all-for-one-group-se-2605413"
+  },
+  {
+    "unternehmensname": "ALLNET GmbH Computersysteme",
+    "domain": "www.allnet.de",
+    "ansprechpartner": "",
+    "email": "sales@allnet.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/allnet-gmbh-computersysteme-2576074"
+  },
+  {
+    "unternehmensname": "AlpenShield GmbH",
+    "domain": "alpenshield.io",
+    "ansprechpartner": "",
+    "email": "itsa.2025@alpenshield.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/alpenshield-gmbh-2576146"
+  },
+  {
+    "unternehmensname": "Alpha Strike Labs GmbH",
+    "domain": "alphastrike.io",
+    "ansprechpartner": "",
+    "email": "office@alphastrike.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/alpha-strike-labs-gmbh-2576350"
+  },
+  {
+    "unternehmensname": "ALSO Deutschland GmbH",
+    "domain": "www.also.com",
+    "ansprechpartner": "",
+    "email": "info@also.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/also-deutschland-gmbh-2576802"
+  },
+  {
+    "unternehmensname": "AMPEG GmbH",
+    "domain": "www.ampeg.de",
+    "ansprechpartner": "",
+    "email": "info@ampeg.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ampeg-gmbh-2577992"
+  },
+  {
+    "unternehmensname": "ap-Verlag GmbH",
+    "domain": "www.manageit.de",
+    "ansprechpartner": "",
+    "email": "schiede@ap-verlag.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ap-verlag-gmbh-2577011"
+  },
+  {
+    "unternehmensname": "Aqaio GmbH",
+    "domain": "www.aqaio.com",
+    "ansprechpartner": "",
+    "email": "info@aqaio.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/aqaio-gmbh-2575819"
+  },
+  {
+    "unternehmensname": "arcitects IT Security GmbH",
+    "domain": "arcitects.de",
+    "ansprechpartner": "",
+    "email": "mojan.akhlaghi@wtrsecurity.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/arcitects-it-security-gmbh-2604029"
+  },
+  {
+    "unternehmensname": "Arctic Wolf",
+    "domain": "www.arcticwolf.com",
+    "ansprechpartner": "",
+    "email": "jana.riddick@arcticwolf.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/arctic-wolf-2576912"
+  },
+  {
+    "unternehmensname": "AROUND IT-Security GmbH",
+    "domain": "www.aroundsec.de",
+    "ansprechpartner": "",
+    "email": "info@aroundsec.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/around-it-security-gmbh-2589223"
+  },
+  {
+    "unternehmensname": "Arrow ECS GmbH",
+    "domain": "www.arrow.com/ecs/de",
+    "ansprechpartner": "",
+    "email": "stephanie.bruckmeier@arrow.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/arrow-ecs-gmbh-2575802"
+  },
+  {
+    "unternehmensname": "ATHENE",
+    "domain": "www.athene-center.de",
+    "ansprechpartner": "",
+    "email": "info@athene-center.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/athene-2576509"
+  },
+  {
+    "unternehmensname": "Athereon GRC GmbH",
+    "domain": "www.athereon.de",
+    "ansprechpartner": "",
+    "email": "grc@athereon.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/athereon-grc-gmbh-2578803"
+  },
+  {
+    "unternehmensname": "Atos",
+    "domain": "www.atos.net",
+    "ansprechpartner": "",
+    "email": "globalprocurementmarcom@atos.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/atos-2599849"
+  },
+  {
+    "unternehmensname": "AUVESY GmbH",
+    "domain": "www.amdt.com",
+    "ansprechpartner": "",
+    "email": "michal.kraus@amdt.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/auvesy-gmbh-2575598"
+  },
+  {
+    "unternehmensname": "AvePoint Deutschland GmbH",
+    "domain": "www.avepoint.de",
+    "ansprechpartner": "",
+    "email": "SalesDE@AvePoint.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/avepoint-deutschland-gmbh-2575809"
+  },
+  {
+    "unternehmensname": "AWADO GmbH Wirtschaftsprüfungsgesellschaft Steuerberatungsgesellschaft",
+    "domain": "www.awado.de",
+    "ansprechpartner": "",
+    "email": "igor.sturm@awado-gruppe.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/awado-gmbh-wirtschaftspruefungsgesellschaft-steuerberatungsgesellschaft-2575665"
+  },
+  {
+    "unternehmensname": "AWARE7 GmbH",
+    "domain": "aware7.com",
+    "ansprechpartner": "",
+    "email": "info@aware7.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/aware7-gmbh-2576501"
+  },
+  {
+    "unternehmensname": "Awareways B.V.",
+    "domain": "www.awareways.com",
+    "ansprechpartner": "",
+    "email": "arthur@awareways.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/awareways-bv-2602254"
+  },
+  {
+    "unternehmensname": "Axians magellan GmbH",
+    "domain": "www.axians.de",
+    "ansprechpartner": "",
+    "email": "info-aml@axians.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/axians-magellan-gmbh-2613754"
+  },
+  {
+    "unternehmensname": "axilaris GmbH",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "einkauf@axilaris.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/axilaris-gmbh-2588766"
+  },
+  {
+    "unternehmensname": "Axiomtek Deutschland GmbH",
+    "domain": "www.axiomtek.de",
+    "ansprechpartner": "",
+    "email": "marketing@axiomtek.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/axiomtek-deutschland-gmbh-2576585"
+  },
+  {
+    "unternehmensname": "Axonius, Inc.",
+    "domain": "www.axonius.com",
+    "ansprechpartner": "",
+    "email": "christoph.kumpa@axonius.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/axonius-inc-2576159"
+  },
+  {
+    "unternehmensname": "Baden-Württemberg International GmbH",
+    "domain": "www.bw-i.de",
+    "ansprechpartner": "",
+    "email": "info@bw-i.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/baden-wuerttemberg-international-gmbh-2577327"
+  },
+  {
+    "unternehmensname": "baramundi software GmbH",
+    "domain": "www.baramundi.de",
+    "ansprechpartner": "",
+    "email": "info@baramundi.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/baramundi-software-gmbh-2576591"
+  },
+  {
+    "unternehmensname": "Barco",
+    "domain": "www.barco.com",
+    "ansprechpartner": "",
+    "email": "clickshare-marketing-de@barco.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/barco-2578015"
+  },
+  {
+    "unternehmensname": "Bare.ID GmbH",
+    "domain": "www.bare.id",
+    "ansprechpartner": "",
+    "email": "info@bare.id",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bareid-gmbh-2578010"
+  },
+  {
+    "unternehmensname": "Barracuda Networks AG",
+    "domain": "www.barracuda.com",
+    "ansprechpartner": "",
+    "email": "sales@barracuda.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/barracuda-networks-ag-2575548"
+  },
+  {
+    "unternehmensname": "Bayern Innovativ GmbH",
+    "domain": "www.bayern-innovativ.de",
+    "ansprechpartner": "",
+    "email": "lang@bayern-innovativ.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bayern-innovativ-gmbh-2575816"
+  },
+  {
+    "unternehmensname": "bayme vbm Die bayerischen Metall- und Elektro-Arbeitgeber",
+    "domain": "www.baymevbm.de",
+    "ansprechpartner": "",
+    "email": "info@baymevbm.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bayme-vbm-die-bayerischen-metall-und-elektro-arbeitgeber-2575800"
+  },
+  {
+    "unternehmensname": "BAYOOSOFT",
+    "domain": "www.bayoosoft.com",
+    "ansprechpartner": "",
+    "email": "info@bayoosoft.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bayoosoft-2576806"
+  },
+  {
+    "unternehmensname": "Bechtle",
+    "domain": "www.bechtle.com",
+    "ansprechpartner": "",
+    "email": "it-security@bechtle.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bechtle-2578738"
+  },
+  {
+    "unternehmensname": "Bechtle AG",
+    "domain": "www.bechtle.com",
+    "ansprechpartner": "",
+    "email": "kontakt@bechtle.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bechtle-ag-2614389"
+  },
+  {
+    "unternehmensname": "Bechtle Austria GmbH",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "ernst.hanke@bechtle.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bechtle-austria-gmbh-2577609"
+  },
+  {
+    "unternehmensname": "Bechtle Network & Security Solutions GmbH",
+    "domain": "www.bechtle-network.com",
+    "ansprechpartner": "",
+    "email": "info.bns@bechtle.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bechtle-network-security-solutions-gmbh-2602240"
+  },
+  {
+    "unternehmensname": "becon GmbH",
+    "domain": "www.becon.de",
+    "ansprechpartner": "",
+    "email": "info@becon.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/becon-gmbh-2576546"
+  },
+  {
+    "unternehmensname": "Belden",
+    "domain": "www.belden.com",
+    "ansprechpartner": "",
+    "email": "dirk.beijers@belden.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/belden-2575953"
+  },
+  {
+    "unternehmensname": "BeyondTrust",
+    "domain": "www.beyondtrust.com",
+    "ansprechpartner": "",
+    "email": "kontakt@beyondtrust.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/beyondtrust-2577043"
+  },
+  {
+    "unternehmensname": "Bitkom e.V.",
+    "domain": "www.bitkom.org",
+    "ansprechpartner": "",
+    "email": "o.goldenberg@bitkom-service.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bitkom-ev-2578329"
+  },
+  {
+    "unternehmensname": "Bitwarden",
+    "domain": "bitwarden.com",
+    "ansprechpartner": "",
+    "email": "hello@bitwarden.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bitwarden-2590743"
+  },
+  {
+    "unternehmensname": "BLACK DUCK SOFTWARE Silicon Frontline Technology (UK)",
+    "domain": "www.blackduck.com",
+    "ansprechpartner": "",
+    "email": "bozana@blackduck.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/black-duck-software-silicon-frontline-technology-uk-2594918"
+  },
+  {
+    "unternehmensname": "BlackBerry | Secure Communications",
+    "domain": "blackberry.com",
+    "ansprechpartner": "",
+    "email": "anfrage@blackberry.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/blackberry-secure-communications-2575683"
+  },
+  {
+    "unternehmensname": "BlackBerry | Secusmart GmbH",
+    "domain": "www.secusmart.de",
+    "ansprechpartner": "",
+    "email": "sales@secusmart.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/blackberry-secusmart-gmbh-2575862"
+  },
+  {
+    "unternehmensname": "Blancco",
+    "domain": "www.blancco.com",
+    "ansprechpartner": "",
+    "email": "infoservice@blancco.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/blancco-2575624"
+  },
+  {
+    "unternehmensname": "Unternehmen",
+    "domain": "bluecatnetworks.com",
+    "ansprechpartner": "",
+    "email": "rholder@bluecatnetworks.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bluecat-networks-gmbh-2614589"
+  },
+  {
+    "unternehmensname": "bn-its banking & network it solutions GmbH",
+    "domain": "www.vmshutdown.com",
+    "ansprechpartner": "",
+    "email": "info@vmshutdown.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bn-its-banking-network-it-solutions-gmbh-2576917"
+  },
+  {
+    "unternehmensname": "BND",
+    "domain": "www.bnd.bund.de",
+    "ansprechpartner": "",
+    "email": "messeservice@bnd.bund.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bnd-2576873"
+  },
+  {
+    "unternehmensname": "BSI",
+    "domain": "www.bsi.bund.de",
+    "ansprechpartner": "",
+    "email": "bsi@bsi.bund.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bsi-2576295"
+  },
+  {
+    "unternehmensname": "Bug Bounty Switzerland AG",
+    "domain": "www.bugbounty.ch",
+    "ansprechpartner": "",
+    "email": "info@bugbounty.ch",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bug-bounty-switzerland-ag-2592242"
+  },
+  {
+    "unternehmensname": "Bundesamt für das Personal management der Bundeswehr I 3.5 DezBeschaffung",
+    "domain": "www.bundeswehr.org",
+    "ansprechpartner": "",
+    "email": "messen@bundeswehr.org",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bundesamt-fuer-das-personal-management-der-bundeswehr-i-35-dezbeschaffung-2583417"
+  },
+  {
+    "unternehmensname": "Bundesverband IT-Mittelstand e.V. BITMi",
+    "domain": "bitmi.de",
+    "ansprechpartner": "",
+    "email": "kontakt@bitmi.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bundesverband-it-mittelstand-ev-bitmi-2575792"
+  },
+  {
+    "unternehmensname": "Bundesverband IT-Sicherheit e.V. (TeleTrusT)",
+    "domain": "www.teletrust.de",
+    "ansprechpartner": "",
+    "email": "celine.ludwig@teletrust.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bundesverband-it-sicherheit-ev-teletrust-2578320"
+  },
+  {
+    "unternehmensname": "BV Aikido Security",
+    "domain": "www.aikido.dev",
+    "ansprechpartner": "",
+    "email": "sophie@aikido.dev",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/bv-aikido-security-2575522"
+  },
+  {
+    "unternehmensname": "Cambium Networks LTD",
+    "domain": "www.cambiumnetworks.com",
+    "ansprechpartner": "",
+    "email": "alexander.dirks@cambiumnetworks.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cambium-networks-ltd-2612740"
+  },
+  {
+    "unternehmensname": "CANCOM GmbH",
+    "domain": "www.cancom.de",
+    "ansprechpartner": "",
+    "email": "security.presales@cancom.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cancom-gmbh-2576088"
+  },
+  {
+    "unternehmensname": "Canon Deutschland GmbH",
+    "domain": "www.canon.de",
+    "ansprechpartner": "",
+    "email": "nicole.emde@canon.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/canon-deutschland-gmbh-2612544"
+  },
+  {
+    "unternehmensname": "carmasec GmbH & Co. KG",
+    "domain": "www.carmasec.com",
+    "ansprechpartner": "",
+    "email": "vertrieb@carmasec.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/carmasec-gmbh-co-kg-2576176"
+  },
+  {
+    "unternehmensname": "CATO NETWORKS",
+    "domain": "catonetworks.com",
+    "ansprechpartner": "",
+    "email": "jonathan.rintel@catonetworks.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cato-networks-2575825"
+  },
+  {
+    "unternehmensname": "CBA – Cybersecurity and Business Advisory GmbH",
+    "domain": "www.cb-advisory.eu",
+    "ansprechpartner": "",
+    "email": "info@cb-advisory.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cba-%E2%80%93-cybersecurity-and-business-advisory-gmbh-2575514"
+  },
+  {
+    "unternehmensname": "CC-IT Competence Center Information Technology GmbH",
+    "domain": "www.cc-it.de",
+    "ansprechpartner": "",
+    "email": "info@cc-it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cc-it-competence-center-information-technology-gmbh-2575964"
+  },
+  {
+    "unternehmensname": "CC4Remarketing GmbH",
+    "domain": "www.cc4.eu",
+    "ansprechpartner": "",
+    "email": "office@cc4.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cc4remarketing-gmbh-2578761"
+  },
+  {
+    "unternehmensname": "CCVOSSEL GmbH",
+    "domain": "ccvossel.de",
+    "ansprechpartner": "",
+    "email": "vertrieb@ccvossel.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ccvossel-gmbh-2577704"
+  },
+  {
+    "unternehmensname": "Censys",
+    "domain": "www.censys.com",
+    "ansprechpartner": "",
+    "email": "sales@censys.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/censys-2575768"
+  },
+  {
+    "unternehmensname": "Certum by Asseco",
+    "domain": "www.certum.eu/en/certum-reseller-program",
+    "ansprechpartner": "",
+    "email": "partner@assecods.pl",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/certum-by-asseco-2578749"
+  },
+  {
+    "unternehmensname": "CGI Deutschland B.V. & Co. KG",
+    "domain": "www.cgi.com/de/de",
+    "ansprechpartner": "",
+    "email": "edina.kistner@cgi.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cgi-deutschland-bv-co-kg-2575572"
+  },
+  {
+    "unternehmensname": "Check Point Software Technologies",
+    "domain": "http://www.checkpoint.com/de",
+    "ansprechpartner": "",
+    "email": "tvorberg@checkpoint.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/check-point-software-technologies-2575524"
+  },
+  {
+    "unternehmensname": "Checkmarx Germany GmbH",
+    "domain": "www.checkmarx.com",
+    "ansprechpartner": "",
+    "email": "Philipp.Muehlenkord@checkmarx.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/checkmarx-germany-gmbh-2575560"
+  },
+  {
+    "unternehmensname": "Checkmk GmbH",
+    "domain": "checkmk.com",
+    "ansprechpartner": "",
+    "email": "sales@checkmk.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/checkmk-gmbh-2583405"
+  },
+  {
+    "unternehmensname": "cidaas",
+    "domain": "www.cidaas.com",
+    "ansprechpartner": "",
+    "email": "marketing@cidaas.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cidaas-2576715"
+  },
+  {
+    "unternehmensname": "CIO Solutions GmbH",
+    "domain": "www.cio-solutions.de",
+    "ansprechpartner": "",
+    "email": "info@cio-solutions.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cio-solutions-gmbh-2576215"
+  },
+  {
+    "unternehmensname": "cirosec GmbH",
+    "domain": "www.cirosec.de",
+    "ansprechpartner": "",
+    "email": "info@cirosec.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cirosec-gmbh-2576861"
+  },
+  {
+    "unternehmensname": "Cisco Systems GmbH",
+    "domain": "www.cisco.com",
+    "ansprechpartner": "",
+    "email": "info@cisco.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cisco-systems-gmbh-2575660"
+  },
+  {
+    "unternehmensname": "Claranet GmbH",
+    "domain": "www.claranet.com/de",
+    "ansprechpartner": "",
+    "email": "de-info@claranet.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/claranet-gmbh-2575937"
+  },
+  {
+    "unternehmensname": "Claroty GmbH",
+    "domain": "www.claroty.com",
+    "ansprechpartner": "",
+    "email": "helena.c@claroty.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/claroty-gmbh-2575622"
+  },
+  {
+    "unternehmensname": "Clavis Cyber GmbH",
+    "domain": "clavis-cyber.de",
+    "ansprechpartner": "",
+    "email": "cornelius@clavis-cyber.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/clavis-cyber-gmbh-2613990"
+  },
+  {
+    "unternehmensname": "Climb Channel Solutions",
+    "domain": "www.climbcs.com/de",
+    "ansprechpartner": "",
+    "email": "info@climbcs.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/climb-channel-solutions-2576869"
+  },
+  {
+    "unternehmensname": "Cloudflare",
+    "domain": "www.cloudflare.com",
+    "ansprechpartner": "",
+    "email": "emeamarketing@cloudflare.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cloudflare-2575916"
+  },
+  {
+    "unternehmensname": "Cloudian B.V.",
+    "domain": "ww.cloudian.com",
+    "ansprechpartner": "",
+    "email": "treichartz@cloudian.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cloudian-bv-2590772"
+  },
+  {
+    "unternehmensname": "CMS IT-Consulting GmbH",
+    "domain": "http://www.cms-it.de",
+    "ansprechpartner": "",
+    "email": "vertrieb@cms-it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cms-it-consulting-gmbh-2576682"
+  },
+  {
+    "unternehmensname": "Cobalt",
+    "domain": "www.cobalt.io",
+    "ansprechpartner": "",
+    "email": "marketinginfo@cobalt.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cobalt-2590730"
+  },
+  {
+    "unternehmensname": "Cohesity GmbH",
+    "domain": "www.cohesity.com/de",
+    "ansprechpartner": "",
+    "email": "contact@cohesity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cohesity-gmbh-2577561"
+  },
+  {
+    "unternehmensname": "Commerce-Test Kaban Makina",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "christian.bayer+kaban@nuernbergmesse.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/commerce-test-kaban-makina-2580292"
+  },
+  {
+    "unternehmensname": "Commerce-Test OKNOPLAST",
+    "domain": "www.nuernbergmesse.de",
+    "ansprechpartner": "",
+    "email": "christian.bayer+okno@nuernbergmesse.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/commerce-test-oknoplast-2580298"
+  },
+  {
+    "unternehmensname": "Commerce-Test WIGASTONE",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "christian.bayer+wiga@nuernbergmesse.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/commerce-test-wigastone-2580286"
+  },
+  {
+    "unternehmensname": "Commvault Systems GmbH",
+    "domain": "www.commvault.com",
+    "ansprechpartner": "",
+    "email": "mschaety@commvault.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/commvault-systems-gmbh-2575752"
+  },
+  {
+    "unternehmensname": "Unternehmen",
+    "domain": "complioty.de/about",
+    "ansprechpartner": "",
+    "email": "markus.hornsteiner@complioty.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/complioty-gmbh-2614606"
+  },
+  {
+    "unternehmensname": "CompliWork UG (haftungsbeschränkt)",
+    "domain": "compli-work.com",
+    "ansprechpartner": "",
+    "email": "info@compli-work.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/compliwork-ug-haftungsbeschraenkt-2598500"
+  },
+  {
+    "unternehmensname": "COMPLYD GmbH",
+    "domain": "complyd.io",
+    "ansprechpartner": "",
+    "email": "sh@complyd.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/complyd-gmbh-2614741"
+  },
+  {
+    "unternehmensname": "Computacenter AG & Co oHG",
+    "domain": "www.computacenter.de",
+    "ansprechpartner": "",
+    "email": "communications.germany@computacenter.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/computacenter-ag-co-ohg-2576096"
+  },
+  {
+    "unternehmensname": "Condignum GmbH",
+    "domain": "condignum.com",
+    "ansprechpartner": "",
+    "email": "sales@condignum.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/condignum-gmbh-2578482"
+  },
+  {
+    "unternehmensname": "conimo GmbH",
+    "domain": "www.conimo.de",
+    "ansprechpartner": "",
+    "email": "mail@conimo.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/conimo-gmbh-2577957"
+  },
+  {
+    "unternehmensname": "connexta Group Services GmbH",
+    "domain": "www.connexta.de",
+    "ansprechpartner": "",
+    "email": "benjamin.kreuzer@connexta.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/connexta-group-services-gmbh-2594924"
+  },
+  {
+    "unternehmensname": "Conscia Deutschland GmbH",
+    "domain": "conscia.com/de",
+    "ansprechpartner": "",
+    "email": "kontakt@conscia.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/conscia-deutschland-gmbh-2577699"
+  },
+  {
+    "unternehmensname": "ConSecur GmbH",
+    "domain": "www.consecur.de",
+    "ansprechpartner": "",
+    "email": "info@consecur.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/consecur-gmbh-2575944"
+  },
+  {
+    "unternehmensname": "ConSense GmbH",
+    "domain": "http://www.consense-gmbh.de",
+    "ansprechpartner": "",
+    "email": "d.bertrams@consense-gmbh.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/consense-gmbh-2583378"
+  },
+  {
+    "unternehmensname": "Consist Software Solutions",
+    "domain": "www.consist.de",
+    "ansprechpartner": "",
+    "email": "office@consist.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/consist-software-solutions-2575374"
+  },
+  {
+    "unternehmensname": "consistec Engineering & Consulting GmbH",
+    "domain": "www.consistec.de",
+    "ansprechpartner": "",
+    "email": "marketing@consistec.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/consistec-engineering-consulting-gmbh-2576877"
+  },
+  {
+    "unternehmensname": "Consulting4IT GmbH",
+    "domain": "www.consulting4it.de",
+    "ansprechpartner": "",
+    "email": "info@consulting4it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/consulting4it-gmbh-2575989"
+  },
+  {
+    "unternehmensname": "CONTECHNET Deutschland GmbH",
+    "domain": "www.contechnet.de",
+    "ansprechpartner": "",
+    "email": "sales@contechnet.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/contechnet-deutschland-gmbh-2576612"
+  },
+  {
+    "unternehmensname": "Controlware GmbH",
+    "domain": "www.controlware.de",
+    "ansprechpartner": "",
+    "email": "info@controlware.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/controlware-gmbh-2576010"
+  },
+  {
+    "unternehmensname": "Converge Germany",
+    "domain": "convergetp.de",
+    "ansprechpartner": "",
+    "email": "hallo@convergetp.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/converge-germany-2575608"
+  },
+  {
+    "unternehmensname": "Cordaware GmbH Informationslogistik",
+    "domain": "www.cordaware.com",
+    "ansprechpartner": "",
+    "email": "info@cordaware.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cordaware-gmbh-informationslogistik-2576049"
+  },
+  {
+    "unternehmensname": "Corelight",
+    "domain": "www.corelight.com",
+    "ansprechpartner": "",
+    "email": "laetitia.chiragarhula@corelight.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/corelight-2575912"
+  },
+  {
+    "unternehmensname": "CoreView",
+    "domain": "www.coreview.com",
+    "ansprechpartner": "",
+    "email": "jemma.richards@coreview.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/coreview-2576979"
+  },
+  {
+    "unternehmensname": "Cortado Mobile Solutions GmbH",
+    "domain": "www.cortado.com/de",
+    "ansprechpartner": "",
+    "email": "info@cortado.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cortado-mobile-solutions-gmbh-2575886"
+  },
+  {
+    "unternehmensname": "Cribl Germany GmbH",
+    "domain": "www.cribl.io",
+    "ansprechpartner": "",
+    "email": "aumit@cribl.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cribl-germany-gmbh-2575728"
+  },
+  {
+    "unternehmensname": "CrowdStrike",
+    "domain": "www.crowdstrike.de",
+    "ansprechpartner": "",
+    "email": "europe.sales@crowdstrike.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/crowdstrike-2576655"
+  },
+  {
+    "unternehmensname": "CRYPTAS it-Security GmbH",
+    "domain": "www.cryptas.com",
+    "ansprechpartner": "",
+    "email": "sales@cryptas.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cryptas-it-security-gmbh-2577874"
+  },
+  {
+    "unternehmensname": "CSBW - Cybersicherheitsagentur BW",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "kommunikation@cybersicherheit.bwl.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/csbw-cybersicherheitsagentur-bw-2576240"
+  },
+  {
+    "unternehmensname": "CTERA INC",
+    "domain": "www.ctera.com",
+    "ansprechpartner": "",
+    "email": "evaw@ctera.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ctera-inc-2612402"
+  },
+  {
+    "unternehmensname": "CybelAngel",
+    "domain": "cybelangel.com",
+    "ansprechpartner": "",
+    "email": "contact@cybelangel.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cybelangel-2577007"
+  },
+  {
+    "unternehmensname": "Cyber Insight",
+    "domain": "cyber-insight.de",
+    "ansprechpartner": "",
+    "email": "felix.weis@cyber-insight.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyber-insight-2576834"
+  },
+  {
+    "unternehmensname": "Cyber Samurai GmbH",
+    "domain": "cyber-samurai.net",
+    "ansprechpartner": "",
+    "email": "info@cyber-samurai.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyber-samurai-gmbh-2575898"
+  },
+  {
+    "unternehmensname": "Cyber Vision bei IC&MS",
+    "domain": "www.cyber-vision.de",
+    "ansprechpartner": "",
+    "email": "info@cyber-vision.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyber-vision-bei-icms-2607880"
+  },
+  {
+    "unternehmensname": "Cyber-Sicherheitsrat Deutschland e.V.",
+    "domain": "www.cybersicherheitsrat.de",
+    "ansprechpartner": "",
+    "email": "info@cybersicherheitsrat.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyber-sicherheitsrat-deutschland-ev-2576264"
+  },
+  {
+    "unternehmensname": "CyberCompare",
+    "domain": "cybercompare.com",
+    "ansprechpartner": "",
+    "email": "cybercompare@de.bosch.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cybercompare-2578334"
+  },
+  {
+    "unternehmensname": "Cyberday Oy",
+    "domain": "www.cyberday.ai",
+    "ansprechpartner": "",
+    "email": "team@cyberday.ai",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyberday-oy-2613045"
+  },
+  {
+    "unternehmensname": "Cyberdise",
+    "domain": "cyberdise-awareness.com",
+    "ansprechpartner": "",
+    "email": "backoffice@cyberdise.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyberdise-2576899"
+  },
+  {
+    "unternehmensname": "cybertronixx GmbH",
+    "domain": "www.cybertronixx.com",
+    "ansprechpartner": "",
+    "email": "info@cybertronixx.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cybertronixx-gmbh-2576732"
+  },
+  {
+    "unternehmensname": "CyberVadis",
+    "domain": "www.cybervadis.com",
+    "ansprechpartner": "",
+    "email": "info@cybervadis.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cybervadis-2576036"
+  },
+  {
+    "unternehmensname": "CycleSEC GmbH",
+    "domain": "cyclesec.com",
+    "ansprechpartner": "",
+    "email": "mail@cyclesec.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyclesec-gmbh-2588779"
+  },
+  {
+    "unternehmensname": "Cyera",
+    "domain": "www.cyera.com",
+    "ansprechpartner": "",
+    "email": "cara.simmons@cyera.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyera-2577000"
+  },
+  {
+    "unternehmensname": "Cyfidelity Security Services GmbH",
+    "domain": "cyfidelity.com",
+    "ansprechpartner": "",
+    "email": "gerd.kiefer@cyfidelity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyfidelity-security-services-gmbh-2577545"
+  },
+  {
+    "unternehmensname": "Cygna Labs",
+    "domain": "www.cygnalabs.com",
+    "ansprechpartner": "",
+    "email": "sales-europe@cygnalabs.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cygna-labs-2576742"
+  },
+  {
+    "unternehmensname": "cyontec solutions GmbH",
+    "domain": "www.cyontec.com",
+    "ansprechpartner": "",
+    "email": "info@cyontec.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyontec-solutions-gmbh-2576494"
+  },
+  {
+    "unternehmensname": "CYQUEO GmbH",
+    "domain": "www.cyqueo.com",
+    "ansprechpartner": "",
+    "email": "info@cyqueo.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/cyqueo-gmbh-2576772"
+  },
+  {
+    "unternehmensname": "D3 Security",
+    "domain": "www.D3Security.com",
+    "ansprechpartner": "",
+    "email": "sales@D3Security.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/d3-security-2575834"
+  },
+  {
+    "unternehmensname": "DAASI International GmbH",
+    "domain": "www.daasi.de",
+    "ansprechpartner": "",
+    "email": "info@daasi.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/daasi-international-gmbh-2577830"
+  },
+  {
+    "unternehmensname": "daccord - IAM made in Germany",
+    "domain": "www.daccord.de",
+    "ansprechpartner": "",
+    "email": "info@daccord.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/daccord-iam-made-in-germany-2576957"
+  },
+  {
+    "unternehmensname": "dacoso GmbH",
+    "domain": "www.dacoso.com",
+    "ansprechpartner": "",
+    "email": "info@dacoso.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dacoso-gmbh-2577039"
+  },
+  {
+    "unternehmensname": "DAGMA GmbH",
+    "domain": "www.dagma.eu",
+    "ansprechpartner": "",
+    "email": "kontakt@dagma.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dagma-gmbh-2612578"
+  },
+  {
+    "unternehmensname": "DAGMA IT SECURITY",
+    "domain": "ww.dagma.eu",
+    "ansprechpartner": "",
+    "email": "kraus.f@dagma.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dagma-it-security-2578452"
+  },
+  {
+    "unternehmensname": "DarkOwl",
+    "domain": "www.darkowl.com",
+    "ansprechpartner": "",
+    "email": "kathy.hoffman@darkowl.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/darkowl-2575383"
+  },
+  {
+    "unternehmensname": "Darktrace",
+    "domain": "de.darktrace.com",
+    "ansprechpartner": "",
+    "email": "info@darktrace.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/darktrace-2576081"
+  },
+  {
+    "unternehmensname": "DARZ GmbH",
+    "domain": "www.da.rz.de",
+    "ansprechpartner": "",
+    "email": "j.henzler@da-rz.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/darz-gmbh-2577479"
+  },
+  {
+    "unternehmensname": "Data Center Group",
+    "domain": "www.datacenter-group.com",
+    "ansprechpartner": "",
+    "email": "info@datacenter-group.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/data-center-group-2575457"
+  },
+  {
+    "unternehmensname": "DATA REVERSE® Datenrettung",
+    "domain": "www.datareverse-datenrettung.de",
+    "ansprechpartner": "",
+    "email": "info@datareverse.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/data-reverse-datenrettung-2576041"
+  },
+  {
+    "unternehmensname": "Datadog",
+    "domain": "www.datadoghq.com",
+    "ansprechpartner": "",
+    "email": "caoimhe.hurley@datadoghq.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/datadog-2575470"
+  },
+  {
+    "unternehmensname": "DATAGROUP",
+    "domain": "www.datagroup.de",
+    "ansprechpartner": "",
+    "email": "cybersecurity@datagroup.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/datagroup-2576616"
+  },
+  {
+    "unternehmensname": "DATAKOM GmbH",
+    "domain": "www.datakom.de",
+    "ansprechpartner": "",
+    "email": "jan.gebauer@datakom.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/datakom-gmbh-2578251"
+  },
+  {
+    "unternehmensname": "DataLocker B. V.",
+    "domain": "datalocker.com",
+    "ansprechpartner": "",
+    "email": "eusales@datalocker.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/datalocker-b-v-2589231"
+  },
+  {
+    "unternehmensname": "Dataminr",
+    "domain": "www.dataminr.com",
+    "ansprechpartner": "",
+    "email": "intl-ps-team@dataminr.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dataminr-2577005"
+  },
+  {
+    "unternehmensname": "DATEV eG",
+    "domain": "www.datev.de",
+    "ansprechpartner": "",
+    "email": "info@datev.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/datev-eg-2576532"
+  },
+  {
+    "unternehmensname": "Dawnguard B.V.",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "info@dawnguard.ai",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dawnguard-bv-2607386"
+  },
+  {
+    "unternehmensname": "DCSO Deutsche Cyber- Sicherheitsorganisation GmbH",
+    "domain": "www.dcso.de",
+    "ansprechpartner": "",
+    "email": "info@dcso.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dcso-deutsche-cyber-sicherheitsorganisation-gmbh-2575671"
+  },
+  {
+    "unternehmensname": "DEFENDERBOX",
+    "domain": "defenderbox.de/en",
+    "ansprechpartner": "",
+    "email": "markus.schulte@defenderbox.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/defenderbox-2578185"
+  },
+  {
+    "unternehmensname": "Delinea",
+    "domain": "www.delinea.com/de",
+    "ansprechpartner": "",
+    "email": "claudia.specht@delinea.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/delinea-2576792"
+  },
+  {
+    "unternehmensname": "Deutsche Telekom Security GmbH",
+    "domain": "http://security.telekom.de",
+    "ansprechpartner": "",
+    "email": "security@telekom.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/deutsche-telekom-security-gmbh-2575651"
+  },
+  {
+    "unternehmensname": "Devolutions",
+    "domain": "devolutions.net",
+    "ansprechpartner": "",
+    "email": "events@devolutions.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/devolutions-2576250"
+  },
+  {
+    "unternehmensname": "DigiFors GmbH",
+    "domain": "www.digifors.de",
+    "ansprechpartner": "",
+    "email": "nico.mueller@digifors.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/digifors-gmbh-2575711"
+  },
+  {
+    "unternehmensname": "digit solutions GmbH",
+    "domain": "www.digit-solutions.com",
+    "ansprechpartner": "",
+    "email": "info@digit-solutions.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/digit-solutions-gmbh-2588336"
+  },
+  {
+    "unternehmensname": "DIGITAL.SICHER.NRW",
+    "domain": "www.digital-sicher.nrw",
+    "ansprechpartner": "",
+    "email": "info@digital-sicher.nrw",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/digitalsichernrw-2578136"
+  },
+  {
+    "unternehmensname": "DIRT. - Deutsches Incident Response Team",
+    "domain": "www.dirt.jetzt",
+    "ansprechpartner": "",
+    "email": "vertrieb@dirt.jetzt",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dirt-deutsches-incident-response-team-2576522"
+  },
+  {
+    "unternehmensname": "DMARC Advisor B.V.",
+    "domain": "dmarcadvisor.com",
+    "ansprechpartner": "",
+    "email": "lars@dmarcadvisor.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dmarc-advisor-bv-2576397"
+  },
+  {
+    "unternehmensname": "doIT solutions GmbH",
+    "domain": "www.doit-solutions.de",
+    "ansprechpartner": "",
+    "email": "info@doit-solutions.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/doit-solutions-gmbh-2576371"
+  },
+  {
+    "unternehmensname": "DQS GmbH",
+    "domain": "www.dqsglobal.com",
+    "ansprechpartner": "",
+    "email": "info@dqs.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dqs-gmbh-2575639"
+  },
+  {
+    "unternehmensname": "DriveLock SE",
+    "domain": "www.drivelock.de",
+    "ansprechpartner": "",
+    "email": "marketing@drivelock.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/drivelock-se-2575855"
+  },
+  {
+    "unternehmensname": "DTS Systeme GmbH",
+    "domain": "www.dts.de",
+    "ansprechpartner": "",
+    "email": "info@dts.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dts-systeme-gmbh-2577015"
+  },
+  {
+    "unternehmensname": "Dummy Company or Brand No. 2",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dummy-company-or-brand-no-2-2578886"
+  },
+  {
+    "unternehmensname": "Dummy456 - Test",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "osc.services@nuernbergmesse.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/dummy456-test-2578501"
+  },
+  {
+    "unternehmensname": "EC-Council",
+    "domain": "www.eccouncil.org",
+    "ansprechpartner": "",
+    "email": "solvig.krause@eccouncil.org",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ec-council-2575675"
+  },
+  {
+    "unternehmensname": "ECOS Technology GmbH",
+    "domain": "www.ecos.de",
+    "ansprechpartner": "",
+    "email": "stephanie.kleschies@ecos.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ecos-technology-gmbh-2576554"
+  },
+  {
+    "unternehmensname": "ECSO - EUROPEAN CYBER SECURITY ORGANISATION",
+    "domain": "ecs-org.eu",
+    "ansprechpartner": "",
+    "email": "media@ecs-org.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ecso-european-cyber-security-organisation-2577948"
+  },
+  {
+    "unternehmensname": "EfficientIP GmbH",
+    "domain": "www.efficientip.com",
+    "ansprechpartner": "",
+    "email": "info@efficientip.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/efficientip-gmbh-2577103"
+  },
+  {
+    "unternehmensname": "Elimity NV",
+    "domain": "www.elimity.com",
+    "ansprechpartner": "",
+    "email": "sales@elimity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/elimity-nv-2576730"
+  },
+  {
+    "unternehmensname": "ELOVADE Deutschland GmbH",
+    "domain": "www.elovade.com",
+    "ansprechpartner": "",
+    "email": "christopher.daut@elovade.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/elovade-deutschland-gmbh-2576823"
+  },
+  {
+    "unternehmensname": "EmpowerID",
+    "domain": "www.empowerid.com",
+    "ansprechpartner": "",
+    "email": "info@empowerid.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/empowerid-2576111"
+  },
+  {
+    "unternehmensname": "emvion Business Software GmbH",
+    "domain": "emvion.de",
+    "ansprechpartner": "",
+    "email": "info@emvion.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/emvion-business-software-gmbh-2588773"
+  },
+  {
+    "unternehmensname": "Enginsight GmbH",
+    "domain": "enginsight.com",
+    "ansprechpartner": "",
+    "email": "hello@enginsight.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/enginsight-gmbh-2576651"
+  },
+  {
+    "unternehmensname": "Entrust",
+    "domain": "www.entrust.com",
+    "ansprechpartner": "",
+    "email": "henriette.nielsen@entrust.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/entrust-2576707"
+  },
+  {
+    "unternehmensname": "Eperi GmbH",
+    "domain": "eperi.com/de",
+    "ansprechpartner": "",
+    "email": "info@eperi.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/eperi-gmbh-2577994"
+  },
+  {
+    "unternehmensname": "Ericsson",
+    "domain": "cradlepoint.com",
+    "ansprechpartner": "",
+    "email": "",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ericsson-2575637"
+  },
+  {
+    "unternehmensname": "esatus AG",
+    "domain": "esatus.com",
+    "ansprechpartner": "",
+    "email": "info@esatus.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/esatus-ag-2590718"
+  },
+  {
+    "unternehmensname": "ESET Deutschland GmbH",
+    "domain": "www.eset.com",
+    "ansprechpartner": "",
+    "email": "info@eset.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/eset-deutschland-gmbh-2575832"
+  },
+  {
+    "unternehmensname": "essendi it GmbH",
+    "domain": "www.essendi.de",
+    "ansprechpartner": "",
+    "email": "info@essendi.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/essendi-it-gmbh-2575844"
+  },
+  {
+    "unternehmensname": "European Portwell B.V.",
+    "domain": "www.portwell.eu",
+    "ansprechpartner": "",
+    "email": "info@portwell.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/european-portwell-bv-2577019"
+  },
+  {
+    "unternehmensname": "EWE TEL GmbH",
+    "domain": "www.business.ewe.de",
+    "ansprechpartner": "",
+    "email": "business@ewe.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ewe-tel-gmbh-2575368"
+  },
+  {
+    "unternehmensname": "Exabeam",
+    "domain": "www.exabeam.com",
+    "ansprechpartner": "",
+    "email": "info@exabeam.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/exabeam-2576582"
+  },
+  {
+    "unternehmensname": "Exeon Analytics AG",
+    "domain": "exeon.com",
+    "ansprechpartner": "",
+    "email": "contact@exeon.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/exeon-analytics-ag-2577819"
+  },
+  {
+    "unternehmensname": "Eye Security GmbH",
+    "domain": "eyesecurity.de",
+    "ansprechpartner": "",
+    "email": "info@eyesecurity.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/eye-security-gmbh-2576720"
+  },
+  {
+    "unternehmensname": "F24 AG",
+    "domain": "www.f24.com",
+    "ansprechpartner": "",
+    "email": "info@f24.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/f24-ag-2575610"
+  },
+  {
+    "unternehmensname": "F5",
+    "domain": "www.f5.com/de_de",
+    "ansprechpartner": "",
+    "email": "info@f5.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/f5-2577052"
+  },
+  {
+    "unternehmensname": "FacIT FixIT GmbH",
+    "domain": "www.facitfixit.com",
+    "ansprechpartner": "",
+    "email": "joerg.hesselink@facitfixit.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/facit-fixit-gmbh-2575393"
+  },
+  {
+    "unternehmensname": "FAST LTA GmbH",
+    "domain": "www.fast-lta.de",
+    "ansprechpartner": "",
+    "email": "info@fast-lta.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/fast-lta-gmbh-2576059"
+  },
+  {
+    "unternehmensname": "FB Pro GmbH",
+    "domain": "www.fb-pro.com",
+    "ansprechpartner": "",
+    "email": "backoffice@fb-pro.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/fb-pro-gmbh-2575537"
+  },
+  {
+    "unternehmensname": "FCS Fair Computer Systems GmbH",
+    "domain": "www.fair-computer.de",
+    "ansprechpartner": "",
+    "email": "info@fair-computer.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/fcs-fair-computer-systems-gmbh-2575847"
+  },
+  {
+    "unternehmensname": "Feitian Technologies Co., Ltd.",
+    "domain": "www.ftsafe.com",
+    "ansprechpartner": "",
+    "email": "della@ftsafe.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/feitian-technologies-co-ltd-2575679"
+  },
+  {
+    "unternehmensname": "Feroot Security",
+    "domain": "feroot.com",
+    "ansprechpartner": "",
+    "email": "hope.goslin@feroot.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/feroot-security-2583389"
+  },
+  {
+    "unternehmensname": "ForeNova Technologies GmbH",
+    "domain": "www.forenova.de",
+    "ansprechpartner": "",
+    "email": "marketing@forenova.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/forenova-technologies-gmbh-2575430"
+  },
+  {
+    "unternehmensname": "Forescout Technologies",
+    "domain": "www.forescout.de",
+    "ansprechpartner": "",
+    "email": "katharina.rech@forescout.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/forescout-technologies-2579066"
+  },
+  {
+    "unternehmensname": "Formalize ApS",
+    "domain": "formalize.com/de",
+    "ansprechpartner": "",
+    "email": "contact@formalize.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/formalize-aps-2578371"
+  },
+  {
+    "unternehmensname": "Fortinet GmbH",
+    "domain": "www.fortinet.de",
+    "ansprechpartner": "",
+    "email": "events-de@fortinet.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/fortinet-gmbh-2576312"
+  },
+  {
+    "unternehmensname": "FREICON GmbH & Co. KG",
+    "domain": "freicon.de",
+    "ansprechpartner": "",
+    "email": "events@freicon.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/freicon-gmbh-co-kg-2578436"
+  },
+  {
+    "unternehmensname": "Fsas Technologies",
+    "domain": "www.fsastech.com/de",
+    "ansprechpartner": "",
+    "email": "alexander.tlusti@fujitsu.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/fsas-technologies-2575692"
+  },
+  {
+    "unternehmensname": "FTAPI",
+    "domain": "www.ftapi.com",
+    "ansprechpartner": "",
+    "email": "marketing@ftapi.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ftapi-2575985"
+  },
+  {
+    "unternehmensname": "FUJIFILM Germany",
+    "domain": "www.fujifilm.com/de/en/business/optical-devices/cctv",
+    "ansprechpartner": "",
+    "email": "cctv_eu@fujifilm.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/fujifilm-germany-2613020"
+  },
+  {
+    "unternehmensname": "Futurae",
+    "domain": "www.futurae.com/?utm_source=itsa_expo&utm_medium=referral&utm_campaign=itsa_expo_2026&utm_content=exhibitor_profile",
+    "ansprechpartner": "",
+    "email": "info@futurae.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/futurae-2612563"
+  },
+  {
+    "unternehmensname": "G DATA CyberDefense AG",
+    "domain": "www.gdata.de",
+    "ansprechpartner": "",
+    "email": "info@gdata.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/g-data-cyberdefense-ag-2576622"
+  },
+  {
+    "unternehmensname": "GAMO a.s.",
+    "domain": "www.gamo.sk/en",
+    "ansprechpartner": "",
+    "email": "info@gamo.sk",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/gamo-as-2575500"
+  },
+  {
+    "unternehmensname": "genua GmbH",
+    "domain": "www.genua.de",
+    "ansprechpartner": "",
+    "email": "info@genua.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/genua-gmbh-2576961"
+  },
+  {
+    "unternehmensname": "GID | Global Information Distribution GmbH",
+    "domain": "www.gid-it.de",
+    "ansprechpartner": "",
+    "email": "info@gid-it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/gid-global-information-distribution-gmbh-2576564"
+  },
+  {
+    "unternehmensname": "Gigamon",
+    "domain": "www.gigamon.com/de",
+    "ansprechpartner": "",
+    "email": "celine.frouin@gigamon.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/gigamon-2575957"
+  },
+  {
+    "unternehmensname": "glueckkanja AG",
+    "domain": "www.glueckkanja.com",
+    "ansprechpartner": "",
+    "email": "sales@glueckkanja.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/glueckkanja-ag-2576053"
+  },
+  {
+    "unternehmensname": "GRASP by DextraData GmbH",
+    "domain": "grasp-grc.com",
+    "ansprechpartner": "",
+    "email": "info@grasp-irm.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/grasp-by-dextradata-gmbh-2576881"
+  },
+  {
+    "unternehmensname": "Gravitate GmbH",
+    "domain": "www.gravitate.eu",
+    "ansprechpartner": "",
+    "email": "info@gravitate.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/gravitate-gmbh-2576435"
+  },
+  {
+    "unternehmensname": "Gray-Hat IT-Security Consulting Stephan H. Wenderlich",
+    "domain": "gray-hat-it-security-consulting.de",
+    "ansprechpartner": "",
+    "email": "stephan.wenderlich@gray-hat-it-security-consulting.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/gray-hat-it-security-consulting-stephan-h-wenderlich-2612999"
+  },
+  {
+    "unternehmensname": "Greenbone – Home of OPENVAS",
+    "domain": "www.greenbone.net",
+    "ansprechpartner": "",
+    "email": "sales@greenbone.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/greenbone-%E2%80%93-home-of-openvas-2576076"
+  },
+  {
+    "unternehmensname": "GreyNoise Intelligence",
+    "domain": "greynoise.io",
+    "ansprechpartner": "",
+    "email": "jordyn@greynoise.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/greynoise-intelligence-2575596"
+  },
+  {
+    "unternehmensname": "Guardian360 BV",
+    "domain": "www.guardian360.de",
+    "ansprechpartner": "",
+    "email": "info@guardian360.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/guardian360-bv-2576235"
+  },
+  {
+    "unternehmensname": "Hack The Box",
+    "domain": "www.hackthebox.com",
+    "ansprechpartner": "",
+    "email": "sales@hackthebox.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hack-the-box-2575720"
+  },
+  {
+    "unternehmensname": "HackerOne",
+    "domain": "www.hackerone.com",
+    "ansprechpartner": "",
+    "email": "atsang@hackerone.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hackerone-2576543"
+  },
+  {
+    "unternehmensname": "Hadrian",
+    "domain": "hadrian.io",
+    "ansprechpartner": "",
+    "email": "info@hadrian.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hadrian-2576840"
+  },
+  {
+    "unternehmensname": "HALCYON TECH, INC.",
+    "domain": "www.halcyon.ai",
+    "ansprechpartner": "",
+    "email": "info@halcyon.ai",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/halcyon-tech-inc-2607392"
+  },
+  {
+    "unternehmensname": "Hallo Welt! GmbH",
+    "domain": "bluespice.com",
+    "ansprechpartner": "",
+    "email": "marketing@bluespice.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hallo-welt!-gmbh-2578772"
+  },
+  {
+    "unternehmensname": "HARFANGLAB",
+    "domain": "www.harfanglab.io/en",
+    "ansprechpartner": "",
+    "email": "julie.legay@harfanglab.fr",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/harfanglab-2576817"
+  },
+  {
+    "unternehmensname": "hartech Holding GmbH",
+    "domain": "www.hartech.de",
+    "ansprechpartner": "",
+    "email": "t.hart@hartech.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hartech-holding-gmbh-2601459"
+  },
+  {
+    "unternehmensname": "Herweck AG",
+    "domain": "www.herweck.de",
+    "ansprechpartner": "",
+    "email": "info@herweck.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/herweck-ag-2575584"
+  },
+  {
+    "unternehmensname": "Hessen3C - Hessen CyberCompetenceCenter",
+    "domain": "www.hessen3c.de",
+    "ansprechpartner": "",
+    "email": "hessen3c@innen.hessen.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hessen3c-hessen-cybercompetencecenter-2577391"
+  },
+  {
+    "unternehmensname": "Hetzner",
+    "domain": "www.hetzner.de",
+    "ansprechpartner": "",
+    "email": "info@hetzner.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hetzner-2576090"
+  },
+  {
+    "unternehmensname": "Hewlett Packard GmbH",
+    "domain": "www.hpe.com/us/en/networking/sase.html",
+    "ansprechpartner": "",
+    "email": "mileto@hpe.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hewlett-packard-gmbh-2576068"
+  },
+  {
+    "unternehmensname": "heylogin GmbH",
+    "domain": "www.heylogin.com",
+    "ansprechpartner": "",
+    "email": "sales@heylogin.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/heylogin-gmbh-2576787"
+  },
+  {
+    "unternehmensname": "HID Corporation Limited",
+    "domain": "www.hidglobal.com",
+    "ansprechpartner": "",
+    "email": "sam.bay@hidglobal.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hid-corporation-limited-2575506"
+  },
+  {
+    "unternehmensname": "Hippolyt Thum GmbH",
+    "domain": "www.thum.de",
+    "ansprechpartner": "",
+    "email": "online@thum.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hippolyt-thum-gmbh-2575979"
+  },
+  {
+    "unternehmensname": "HiScout GmbH",
+    "domain": "www.hiscout.com",
+    "ansprechpartner": "",
+    "email": "marketing@hiscout.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hiscout-gmbh-2575741"
+  },
+  {
+    "unternehmensname": "HiSolutions AG",
+    "domain": "www.hisolutions.com",
+    "ansprechpartner": "",
+    "email": "info@hisolutions.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hisolutions-ag-2575566"
+  },
+  {
+    "unternehmensname": "Horizon 3 AI, Inc.",
+    "domain": "www.horizon3.ai",
+    "ansprechpartner": "",
+    "email": "info@horizon3.ai",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/horizon-3-ai-inc-2576688"
+  },
+  {
+    "unternehmensname": "Hornetsecurity",
+    "domain": "www.hornetsecurity.com",
+    "ansprechpartner": "",
+    "email": "info@hornetsecurity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hornetsecurity-2575748"
+  },
+  {
+    "unternehmensname": "Hoxhunt",
+    "domain": "www.hoxhunt.com",
+    "ansprechpartner": "",
+    "email": "info@hoxhunt.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hoxhunt-2576748"
+  },
+  {
+    "unternehmensname": "HP Inc.",
+    "domain": "www.hp.com",
+    "ansprechpartner": "",
+    "email": "info@hp.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/hp-inc-2575590"
+  },
+  {
+    "unternehmensname": "IABG mbH",
+    "domain": "www.iabg.de",
+    "ansprechpartner": "",
+    "email": "info@iabg.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/iabg-mbh-2575959"
+  },
+  {
+    "unternehmensname": "IAV GmbH",
+    "domain": "www.iav.com/cybersecurity",
+    "ansprechpartner": "",
+    "email": "marco.siebert@iav.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/iav-gmbh-2575451"
+  },
+  {
+    "unternehmensname": "ibi systems GmbH",
+    "domain": "www.ibi-systems.de",
+    "ansprechpartner": "",
+    "email": "contact@ibi-systems.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ibi-systems-gmbh-2576928"
+  },
+  {
+    "unternehmensname": "IceWarp GmbH",
+    "domain": "www.icewarp.de",
+    "ansprechpartner": "",
+    "email": "sales@icewarp.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/icewarp-gmbh-2575853"
+  },
+  {
+    "unternehmensname": "ID Quantique, an IonQ company",
+    "domain": "www.idquantique.com",
+    "ansprechpartner": "",
+    "email": "info@idquantique.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/id-quantique-an-ionq-company-2575460"
+  },
+  {
+    "unternehmensname": "IdoubleS Cybersecurity GmbH",
+    "domain": "idoubles.net",
+    "ansprechpartner": "",
+    "email": "operations@idoubles.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/idoubles-cybersecurity-gmbh-2575497"
+  },
+  {
+    "unternehmensname": "IGEL Technology GmbH",
+    "domain": "www.igel.de",
+    "ansprechpartner": "",
+    "email": "info@igel.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/igel-technology-gmbh-2576790"
+  },
+  {
+    "unternehmensname": "IKARUS Security Software GmbH",
+    "domain": "www.ikarussecurity.com",
+    "ansprechpartner": "",
+    "email": "office@ikarus.at",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ikarus-security-software-gmbh-2577583"
+  },
+  {
+    "unternehmensname": "Illumio",
+    "domain": "www.illumio.com",
+    "ansprechpartner": "",
+    "email": "michele.novick@illumio.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/illumio-2575874"
+  },
+  {
+    "unternehmensname": "ImmuniWeb SA",
+    "domain": "www.immuniweb.com",
+    "ansprechpartner": "",
+    "email": "info@immuniweb.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/immuniweb-sa-2575486"
+  },
+  {
+    "unternehmensname": "Infinigate Deutschland GmbH",
+    "domain": "www.infinigate.de",
+    "ansprechpartner": "",
+    "email": "info@infinigate.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/infinigate-deutschland-gmbh-2576552"
+  },
+  {
+    "unternehmensname": "Infoblox",
+    "domain": "www.infoblox.com",
+    "ansprechpartner": "",
+    "email": "events@infoblox.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/infoblox-2575602"
+  },
+  {
+    "unternehmensname": "INFODAS GmbH",
+    "domain": "www.infodas.com",
+    "ansprechpartner": "",
+    "email": "info@infodas.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/infodas-gmbh-2576626"
+  },
+  {
+    "unternehmensname": "InfoGuard",
+    "domain": "www.infoguard.de",
+    "ansprechpartner": "",
+    "email": "info@infoguard.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/infoguard-2576070"
+  },
+  {
+    "unternehmensname": "innomea GmbH Christian Brdar",
+    "domain": "www.innomea.de",
+    "ansprechpartner": "",
+    "email": "info@innomea.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/innomea-gmbh-christian-brdar-2614594"
+  },
+  {
+    "unternehmensname": "innovaphone AG",
+    "domain": "www.innovaphone.com",
+    "ansprechpartner": "",
+    "email": "info@innovaphone.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/innovaphone-ag-2577279"
+  },
+  {
+    "unternehmensname": "Institut für Internet-Sicherheit | if(is) Westfälische Hochschule",
+    "domain": "www.internet-sicherheit.de",
+    "ansprechpartner": "",
+    "email": "pohlmann@internet-sicherheit.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/institut-fuer-internet-sicherheit-ifis-westfaelische-hochschule-2576308"
+  },
+  {
+    "unternehmensname": "Intension GmbH",
+    "domain": "www.intension.de",
+    "ansprechpartner": "",
+    "email": "alina.schuerl@intension.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/intension-gmbh-2577179"
+  },
+  {
+    "unternehmensname": "intersoft consulting services AG",
+    "domain": "it-forensik.de",
+    "ansprechpartner": "",
+    "email": "it-forensik@intersoft-consulting.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/intersoft-consulting-services-ag-2576601"
+  },
+  {
+    "unternehmensname": "Intervalid GmbH",
+    "domain": "www.intervalid.com",
+    "ansprechpartner": "",
+    "email": "info@intervalid.at",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/intervalid-gmbh-2577289"
+  },
+  {
+    "unternehmensname": "IntraFind Software AG",
+    "domain": "www.intrafind.com",
+    "ansprechpartner": "",
+    "email": "marketing@intrafind.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/intrafind-software-ag-2594488"
+  },
+  {
+    "unternehmensname": "IONOS",
+    "domain": "www.ionos.de",
+    "ansprechpartner": "",
+    "email": "info@cloud.ionos.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ionos-2576684"
+  },
+  {
+    "unternehmensname": "IPG Group",
+    "domain": "www.ipg-group.com",
+    "ansprechpartner": "",
+    "email": "info@ipg-group.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ipg-group-2614997"
+  },
+  {
+    "unternehmensname": "IS4IT KRITIS GmbH",
+    "domain": "www.is4it-kritis.de",
+    "ansprechpartner": "",
+    "email": "info@is4it-kritis.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/is4it-kritis-gmbh-2575725"
+  },
+  {
+    "unternehmensname": "ISC2",
+    "domain": "www.isc2.org",
+    "ansprechpartner": "",
+    "email": "info-emea@isc2.org",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/isc2-2577927"
+  },
+  {
+    "unternehmensname": "Island",
+    "domain": "island.io",
+    "ansprechpartner": "",
+    "email": "georgina.mcweeney@island.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/island-2576534"
+  },
+  {
+    "unternehmensname": "IT Verlag für Informationstechnik GmbH",
+    "domain": "www.it-daily.net",
+    "ansprechpartner": "",
+    "email": "s.parthier@it-verlag.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/it-verlag-fuer-informationstechnik-gmbh-2577193"
+  },
+  {
+    "unternehmensname": "IT-Schulungen.com / New Elements GmbH",
+    "domain": "www.IT-Schulungen.com",
+    "ansprechpartner": "",
+    "email": "info@it-schulungen.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/it-schulungencom-new-elements-gmbh-2575482"
+  },
+  {
+    "unternehmensname": "ITcares GmbH",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "mail@itcares.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/itcares-gmbh-2612408"
+  },
+  {
+    "unternehmensname": "iTentity GmbH",
+    "domain": "www.itentity.net",
+    "ansprechpartner": "",
+    "email": "welcome@itentity.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/itentity-gmbh-2613766"
+  },
+  {
+    "unternehmensname": "ITERASEC",
+    "domain": "iterasec.com",
+    "ansprechpartner": "",
+    "email": "info@iterasec.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/iterasec-2578342"
+  },
+  {
+    "unternehmensname": "iTernity GmbH",
+    "domain": "www.iternity.com",
+    "ansprechpartner": "",
+    "email": "info@iternity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/iternity-gmbh-2577841"
+  },
+  {
+    "unternehmensname": "itWatch GmbH",
+    "domain": "www.itwatch.de",
+    "ansprechpartner": "",
+    "email": "info@itwatch.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/itwatch-gmbh-2576763"
+  },
+  {
+    "unternehmensname": "Jamf Software Germany GmbH",
+    "domain": "www.jamf.com/de",
+    "ansprechpartner": "",
+    "email": "germany@jamf.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/jamf-software-germany-gmbh-2576968"
+  },
+  {
+    "unternehmensname": "Jamorie Consulting GmbH",
+    "domain": "jamorie.eu",
+    "ansprechpartner": "",
+    "email": "marcel.rieger@jamorie.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/jamorie-consulting-gmbh-2575428"
+  },
+  {
+    "unternehmensname": "Journeybee AB",
+    "domain": "journeybee.io",
+    "ansprechpartner": "",
+    "email": "haydn@journeybee.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/journeybee-ab-2607866"
+  },
+  {
+    "unternehmensname": "KAPSOLO The Privacy Filter Company",
+    "domain": "kapsolo.com/index.php/en",
+    "ansprechpartner": "",
+    "email": "bastiankuhn@msb-it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kapsolo-the-privacy-filter-company-2575690"
+  },
+  {
+    "unternehmensname": "Kaseya",
+    "domain": "www.kaseya.com/request/demo",
+    "ansprechpartner": "",
+    "email": "mscully@datto.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kaseya-2576109"
+  },
+  {
+    "unternehmensname": "Kaspersky",
+    "domain": "www.kaspersky.de",
+    "ansprechpartner": "",
+    "email": "info@kaspersky.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kaspersky-2576641"
+  },
+  {
+    "unternehmensname": "Keeper Security",
+    "domain": "www.keepersecurity.com",
+    "ansprechpartner": "",
+    "email": "sales@keepersecurity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/keeper-security-2576548"
+  },
+  {
+    "unternehmensname": "Keepit Germany GmbH",
+    "domain": "www.keepit.com",
+    "ansprechpartner": "",
+    "email": "dach.sales@keepit.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/keepit-germany-gmbh-2576620"
+  },
+  {
+    "unternehmensname": "kelobit IT-Experts GmbH",
+    "domain": "www.kelobit.de",
+    "ansprechpartner": "",
+    "email": "info@kelobit.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kelobit-it-experts-gmbh-2578089"
+  },
+  {
+    "unternehmensname": "Kentix GmbH",
+    "domain": "www.kentix.com",
+    "ansprechpartner": "",
+    "email": "s.krueger@kentix.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kentix-gmbh-2576614"
+  },
+  {
+    "unternehmensname": "Keyfactor",
+    "domain": "www.keyfactor.com",
+    "ansprechpartner": "",
+    "email": "sales@keyfactor.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/keyfactor-2575762"
+  },
+  {
+    "unternehmensname": "keyONE GmbH",
+    "domain": "www.keyone.one",
+    "ansprechpartner": "",
+    "email": "info@keyone.one",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/keyone-gmbh-2590705"
+  },
+  {
+    "unternehmensname": "KIX Service Software GmbH",
+    "domain": "kixdesk.com",
+    "ansprechpartner": "",
+    "email": "info@kixdesk.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kix-service-software-gmbh-2576996"
+  },
+  {
+    "unternehmensname": "KnowBe4",
+    "domain": "www.knowbe4.de",
+    "ansprechpartner": "",
+    "email": "kontakt@knowbe4.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/knowbe4-2576676"
+  },
+  {
+    "unternehmensname": "KOBIL GmbH",
+    "domain": "www.kobil.com",
+    "ansprechpartner": "",
+    "email": "info@kobil.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kobil-gmbh-2578114"
+  },
+  {
+    "unternehmensname": "Kobra Infosec GmbH",
+    "domain": "www.kobra-infosec.de",
+    "ansprechpartner": "",
+    "email": "info@kobra-infosec.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kobra-infosec-gmbh-2576131"
+  },
+  {
+    "unternehmensname": "KPMG AG Wirtschaftsprüfungsgesellschaft",
+    "domain": "www.kpmg.de",
+    "ansprechpartner": "",
+    "email": "information@kpmg.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kpmg-ag-wirtschaftspruefungsgesellschaft-2578171"
+  },
+  {
+    "unternehmensname": "Kramer & Crew GmbH & Co. KG",
+    "domain": "www.kramerundcrew.de",
+    "ansprechpartner": "",
+    "email": "crew@kramerundcrew.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kramer-crew-gmbh-co-kg-2575717"
+  },
+  {
+    "unternehmensname": "KubeOps GmbH",
+    "domain": "kubeops.net",
+    "ansprechpartner": "",
+    "email": "info@kubeops.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/kubeops-gmbh-2575804"
+  },
+  {
+    "unternehmensname": "Landesamt für Sicherheit in der Informationstechnik",
+    "domain": "www.lsi.bayern.de",
+    "ansprechpartner": "",
+    "email": "poststelle@lsi.bayern.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/landesamt-fuer-sicherheit-in-der-informationstechnik-2578527"
+  },
+  {
+    "unternehmensname": "Lanner Europe B.V",
+    "domain": "www.lannerinc.com",
+    "ansprechpartner": "",
+    "email": "geoffrey_egger@lannerinc.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/lanner-europe-bv-2602957"
+  },
+  {
+    "unternehmensname": "LocateRisk",
+    "domain": "www.locaterisk.com",
+    "ansprechpartner": "",
+    "email": "info@locaterisk.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/locaterisk-2577814"
+  },
+  {
+    "unternehmensname": "Logicalis GmbH",
+    "domain": "www.de.logicalis.com",
+    "ansprechpartner": "",
+    "email": "info@logicalis.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/logicalis-gmbh-2575889"
+  },
+  {
+    "unternehmensname": "LOGINventory",
+    "domain": "www.loginventory.de",
+    "ansprechpartner": "",
+    "email": "info@loginventory.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/loginventory-2586287"
+  },
+  {
+    "unternehmensname": "LogMeIn (a GoTo brand)",
+    "domain": "www.logmein.com/de",
+    "ansprechpartner": "",
+    "email": "",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/logmein-a-goto-brand-2575796"
+  },
+  {
+    "unternehmensname": "Lookout",
+    "domain": "de.lookout.com",
+    "ansprechpartner": "",
+    "email": "info@lookout.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/lookout-2576273"
+  },
+  {
+    "unternehmensname": "LSZ GmbH",
+    "domain": "www.lsz.at",
+    "ansprechpartner": "",
+    "email": "claudia.marx@lsz.at",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/lsz-gmbh-2577177"
+  },
+  {
+    "unternehmensname": "Lywand Software GmbH",
+    "domain": "www.lywand.com",
+    "ansprechpartner": "",
+    "email": "office@lywand.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/lywand-software-gmbh-2576416"
+  },
+  {
+    "unternehmensname": "macle GmbH",
+    "domain": "www.macle.com",
+    "ansprechpartner": "",
+    "email": "vertrieb@macle.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/macle-gmbh-2614580"
+  },
+  {
+    "unternehmensname": "MACONIA GmbH",
+    "domain": "maconia.de",
+    "ansprechpartner": "",
+    "email": "office@maconia.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/maconia-gmbh-2575973"
+  },
+  {
+    "unternehmensname": "MAITUO",
+    "domain": "www.imaituo.com",
+    "ansprechpartner": "",
+    "email": "services@imaituo.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/maituo-2578741"
+  },
+  {
+    "unternehmensname": "Makro Factory GmbH & Co. KG",
+    "domain": "www.makrofactory.com",
+    "ansprechpartner": "",
+    "email": "info@makrofactory.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/makro-factory-gmbh-co-kg-2577269"
+  },
+  {
+    "unternehmensname": "ManageEngine (a div of Zoho Corp)",
+    "domain": "www.manageengine.com",
+    "ansprechpartner": "",
+    "email": "lakshaya.kumaran@zohocorp.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/manageengine-a-div-of-zoho-corp-2576034"
+  },
+  {
+    "unternehmensname": "Mastercard Europe SA",
+    "domain": "www.mastercard.de",
+    "ansprechpartner": "",
+    "email": "germany@mastercard.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mastercard-europe-sa-2576039"
+  },
+  {
+    "unternehmensname": "Materna Virtual Solution GmbH",
+    "domain": "www.virtual-solution.com",
+    "ansprechpartner": "",
+    "email": "mail@virtual-solution.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/materna-virtual-solution-gmbh-2576409"
+  },
+  {
+    "unternehmensname": "MazeBolt",
+    "domain": "mazebolt.com",
+    "ansprechpartner": "",
+    "email": "info@mazebolt.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mazebolt-2575413"
+  },
+  {
+    "unternehmensname": "MB connect line GmbH",
+    "domain": "www.mbconnectline.de",
+    "ansprechpartner": "",
+    "email": "info@mbconnectline.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mb-connect-line-gmbh-2575757"
+  },
+  {
+    "unternehmensname": "Medialine Security GmbH",
+    "domain": "medialine.com",
+    "ansprechpartner": "",
+    "email": "info.sec@medialine.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/medialine-security-gmbh-2577389"
+  },
+  {
+    "unternehmensname": "MetaCompliance GmbH",
+    "domain": "www.metacompliance.de",
+    "ansprechpartner": "",
+    "email": "cankers@metacompliance.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/metacompliance-gmbh-2575432"
+  },
+  {
+    "unternehmensname": "Mimecast",
+    "domain": "www.mimecast.com",
+    "ansprechpartner": "",
+    "email": "bhohlweg@mimecast.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mimecast-2576148"
+  },
+  {
+    "unternehmensname": "mITSM GmbH",
+    "domain": "www.mitsm.de",
+    "ansprechpartner": "",
+    "email": "training@mitsm.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mitsm-gmbh-2576019"
+  },
+  {
+    "unternehmensname": "Mitsogo inc",
+    "domain": "www.hexnode.com",
+    "ansprechpartner": "",
+    "email": "events@hexnode.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mitsogo-inc-2576674"
+  },
+  {
+    "unternehmensname": "mitteldeutsche IT GmbH",
+    "domain": "mitteldeutsche-it.de",
+    "ansprechpartner": "",
+    "email": "partner@mitteldeutsche-it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mitteldeutsche-it-gmbh-2576066"
+  },
+  {
+    "unternehmensname": "Mondoo GmbH",
+    "domain": "mondoo.com",
+    "ansprechpartner": "",
+    "email": "hello@mondoo.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mondoo-gmbh-2577674"
+  },
+  {
+    "unternehmensname": "MTG AG",
+    "domain": "www.mtg.de",
+    "ansprechpartner": "",
+    "email": "contact@mtg.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/mtg-ag-2576560"
+  },
+  {
+    "unternehmensname": "Myra Security GmbH",
+    "domain": "www.myrasecurity.com",
+    "ansprechpartner": "",
+    "email": "info@myrasecurity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/myra-security-gmbh-2575968"
+  },
+  {
+    "unternehmensname": "NACVIEW Sp. z o.o.",
+    "domain": "www.nacview.com",
+    "ansprechpartner": "",
+    "email": "maciej.salamonski@nacview.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nacview-sp-z-oo-2576954"
+  },
+  {
+    "unternehmensname": "NCP engineering GmbH",
+    "domain": "www.ncp-e.com",
+    "ansprechpartner": "",
+    "email": "info@ncp-e.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ncp-engineering-gmbh-2575774"
+  },
+  {
+    "unternehmensname": "NEOX Networks GmbH",
+    "domain": "www.neox-networks.com",
+    "ansprechpartner": "",
+    "email": "info@neox-networks.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/neox-networks-gmbh-2576924"
+  },
+  {
+    "unternehmensname": "NetBird GmbH",
+    "domain": "netbird.io",
+    "ansprechpartner": "",
+    "email": "driton@netbird.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/netbird-gmbh-2612551"
+  },
+  {
+    "unternehmensname": "NetDescribe GmbH",
+    "domain": "www.netdescribe.com",
+    "ansprechpartner": "",
+    "email": "events@netdescribe.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/netdescribe-gmbh-2576781"
+  },
+  {
+    "unternehmensname": "Netherlands Pavilion",
+    "domain": "www.innovationquarter.nl",
+    "ansprechpartner": "",
+    "email": "info@innovationquarter.nl",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/netherlands-pavilion-2575422"
+  },
+  {
+    "unternehmensname": "netlogix GmbH & Co. KG",
+    "domain": "www.netlogix.de",
+    "ansprechpartner": "",
+    "email": "marketing@netlogix.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/netlogix-gmbh-co-kg-2576902"
+  },
+  {
+    "unternehmensname": "NETSCOUT",
+    "domain": "www.netscout.com",
+    "ansprechpartner": "",
+    "email": "emeamarketing@netscout.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/netscout-2576153"
+  },
+  {
+    "unternehmensname": "Netskope Germany GmbH",
+    "domain": "www.netskope.com",
+    "ansprechpartner": "",
+    "email": "abraun@netskope.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/netskope-germany-gmbh-2577025"
+  },
+  {
+    "unternehmensname": "NETWAYS",
+    "domain": "www.netways.de",
+    "ansprechpartner": "",
+    "email": "sales@netways.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/netways-2575933"
+  },
+  {
+    "unternehmensname": "Nevis",
+    "domain": "www.nevis.net",
+    "ansprechpartner": "",
+    "email": "marketing@nevis.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nevis-2575865"
+  },
+  {
+    "unternehmensname": "NEXOWARE GmbH",
+    "domain": "www.nexoware.com",
+    "ansprechpartner": "",
+    "email": "info@nexoware.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nexoware-gmbh-2575442"
+  },
+  {
+    "unternehmensname": "Nextcloud GmbH",
+    "domain": "www.nextcloud.com",
+    "ansprechpartner": "",
+    "email": "info@nextcloud.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nextcloud-gmbh-2576119"
+  },
+  {
+    "unternehmensname": "Nextron Systems GmbH",
+    "domain": "www.nextron-systems.com",
+    "ansprechpartner": "",
+    "email": "info@nextron-systems.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nextron-systems-gmbh-2575698"
+  },
+  {
+    "unternehmensname": "Nexus IN Groupe",
+    "domain": "www.nexusgroup.com",
+    "ansprechpartner": "",
+    "email": "contact@nexusgroup.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nexus-in-groupe-2575882"
+  },
+  {
+    "unternehmensname": "nicmanager: Domain Management",
+    "domain": "www.nicmanager.com",
+    "ansprechpartner": "",
+    "email": "info@nicmanager.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nicmanager-domain-management-2575925"
+  },
+  {
+    "unternehmensname": "NinjaOne",
+    "domain": "www.ninjaone.com/de",
+    "ansprechpartner": "",
+    "email": "sales@ninjaone.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ninjaone-2576513"
+  },
+  {
+    "unternehmensname": "Nitrokey GmbH",
+    "domain": "www.nitrokey.com",
+    "ansprechpartner": "",
+    "email": "info@nitrokey.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nitrokey-gmbh-2575464"
+  },
+  {
+    "unternehmensname": "Nomios Germany GmbH",
+    "domain": "www.nomios.de",
+    "ansprechpartner": "",
+    "email": "info@nomios.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nomios-germany-gmbh-2577129"
+  },
+  {
+    "unternehmensname": "Nord CS GmbH",
+    "domain": "www.nordcs.de",
+    "ansprechpartner": "",
+    "email": "contact@nordcs.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nord-cs-gmbh-2614600"
+  },
+  {
+    "unternehmensname": "Nord Security Inc.",
+    "domain": "nordlayer.com",
+    "ansprechpartner": "",
+    "email": "greta.barzdaite@nordsec.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nord-security-inc-2575404"
+  },
+  {
+    "unternehmensname": "noris network AG",
+    "domain": "www.noris.de",
+    "ansprechpartner": "",
+    "email": "jobs@noris.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/noris-network-ag-2576606"
+  },
+  {
+    "unternehmensname": "NORTHWAVE DEUTSCHLAND GmbH",
+    "domain": "www.northwave-cybersecurity.com",
+    "ansprechpartner": "",
+    "email": "dach@northwave-cybersecurity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/northwave-deutschland-gmbh-2576892"
+  },
+  {
+    "unternehmensname": "NoSpamProxy von Net at Work",
+    "domain": "www.nospamproxy.de",
+    "ansprechpartner": "",
+    "email": "info@netatwork.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nospamproxy-von-net-at-work-2576634"
+  },
+  {
+    "unternehmensname": "NovaStor GmbH",
+    "domain": "www.novastor.de",
+    "ansprechpartner": "",
+    "email": "kontakt@novastor.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/novastor-gmbh-2576852"
+  },
+  {
+    "unternehmensname": "NRW.Global Business GmbH Trade & Investment Agency",
+    "domain": "www.nrwglobalbusiness.com",
+    "ansprechpartner": "",
+    "email": "nrw@nrwglobalbusiness.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nrwglobal-business-gmbh-trade-investment-agency-2590215"
+  },
+  {
+    "unternehmensname": "NTS Deutschland GmbH",
+    "domain": "www.nts.eu/de",
+    "ansprechpartner": "",
+    "email": "office@nts.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nts-deutschland-gmbh-2575755"
+  },
+  {
+    "unternehmensname": "NTT Data Deutschland GmbH",
+    "domain": "de.nttdata.com",
+    "ansprechpartner": "",
+    "email": "info@nttdata.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ntt-data-deutschland-gmbh-2576630"
+  },
+  {
+    "unternehmensname": "NuernbergMesse North America, Inc.",
+    "domain": "www.nuernbergmesse-north-america.com",
+    "ansprechpartner": "",
+    "email": "bill.ingwersen@nuernbergmesse-north-america.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nuernbergmesse-north-america-inc-2602949"
+  },
+  {
+    "unternehmensname": "NürnbergMesse GmbH",
+    "domain": "www.nuernbergmesse.de/de",
+    "ansprechpartner": "",
+    "email": "katharina.modjesch@nuernbergmesse.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nuernbergmesse-gmbh-2613893"
+  },
+  {
+    "unternehmensname": "NürnbergMesse GmbH",
+    "domain": "www.nuernbergmesse.de/de-de",
+    "ansprechpartner": "",
+    "email": "info@nuernbergmesse.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nuernbergmesse-gmbh-2576194"
+  },
+  {
+    "unternehmensname": "Nuvotex GmbH",
+    "domain": "www.nuvotex.de",
+    "ansprechpartner": "",
+    "email": "info@nuvotex.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nuvotex-gmbh-2576914"
+  },
+  {
+    "unternehmensname": "NVISO GmbH",
+    "domain": "www.nviso.eu",
+    "ansprechpartner": "",
+    "email": "info@nviso.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nviso-gmbh-2578847"
+  },
+  {
+    "unternehmensname": "NXLog",
+    "domain": "nxlog.co",
+    "ansprechpartner": "",
+    "email": "andrea.ipolyi@nxlog.org",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/nxlog-2576871"
+  },
+  {
+    "unternehmensname": "Object First",
+    "domain": "objectfirst.com",
+    "ansprechpartner": "",
+    "email": "iryna.dovgopola@objectfirst.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/object-first-2576713"
+  },
+  {
+    "unternehmensname": "OEDIV SecuSys GmbH",
+    "domain": "www.sesusys.de",
+    "ansprechpartner": "",
+    "email": "info@secusys.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/oediv-secusys-gmbh-2577323"
+  },
+  {
+    "unternehmensname": "Okta",
+    "domain": "www.okta.com/de",
+    "ansprechpartner": "",
+    "email": "info_germany@okta.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/okta-2575614"
+  },
+  {
+    "unternehmensname": "OMICRON electronics GmbH",
+    "domain": "www.omicroncybersecurity.com/de",
+    "ansprechpartner": "",
+    "email": "info@omicronenergy.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/omicron-electronics-gmbh-2576115"
+  },
+  {
+    "unternehmensname": "OMNINET Software-, System- und Projektmanagementtechnik GmbH",
+    "domain": "www.omninet.de",
+    "ansprechpartner": "",
+    "email": "sales@omninet.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/omninet-software-system-und-projektmanagementtechnik-gmbh-2576836"
+  },
+  {
+    "unternehmensname": "Onapsis Europe GmbH",
+    "domain": "www.onapsis.com",
+    "ansprechpartner": "",
+    "email": "angelica.kuebel@onapsis.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/onapsis-europe-gmbh-2607860"
+  },
+  {
+    "unternehmensname": "One Identity GmbH",
+    "domain": "www.oneidentity.com/de-de",
+    "ansprechpartner": "",
+    "email": "sandor.asztalos@oneidentity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/one-identity-gmbh-2576142"
+  },
+  {
+    "unternehmensname": "ONEKEY",
+    "domain": "onekey.com",
+    "ansprechpartner": "",
+    "email": "office@onekey.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/onekey-2577035"
+  },
+  {
+    "unternehmensname": "Ontinue",
+    "domain": "www.ontinue.com",
+    "ansprechpartner": "",
+    "email": "taubry@ontinue.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ontinue-2576973"
+  },
+  {
+    "unternehmensname": "Open Systems",
+    "domain": "www.open-systems.com",
+    "ansprechpartner": "",
+    "email": "info@open-systems.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/open-systems-2579007"
+  },
+  {
+    "unternehmensname": "openthinclient gmbh",
+    "domain": "www.openthinclient.com",
+    "ansprechpartner": "",
+    "email": "info@openthinclient.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/openthinclient-gmbh-2590750"
+  },
+  {
+    "unternehmensname": "OPSWAT GmbH",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "daniela.ehmele@opswat.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/opswat-gmbh-2575484"
+  },
+  {
+    "unternehmensname": "OPTIMAL SYSTEMS GmbH",
+    "domain": "www.optimal-systems.de",
+    "ansprechpartner": "",
+    "email": "kontakt@optimal-systems.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/optimal-systems-gmbh-2575919"
+  },
+  {
+    "unternehmensname": "OTRS AG",
+    "domain": "otrs.com",
+    "ansprechpartner": "",
+    "email": "sales@otrs.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/otrs-ag-2575444"
+  },
+  {
+    "unternehmensname": "Oxford Computer Group GmbH",
+    "domain": "www.ocg.de",
+    "ansprechpartner": "",
+    "email": "san@ocg.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/oxford-computer-group-gmbh-2590725"
+  },
+  {
+    "unternehmensname": "Paessler GmbH",
+    "domain": "www.paessler.com",
+    "ansprechpartner": "",
+    "email": "info@paessler.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/paessler-gmbh-2575722"
+  },
+  {
+    "unternehmensname": "Palo Alto Networks",
+    "domain": "www.paloaltonetworks.com",
+    "ansprechpartner": "",
+    "email": "contact_salesemea@paloaltonetworks.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/palo-alto-networks-2576466"
+  },
+  {
+    "unternehmensname": "Passbolt SA",
+    "domain": "www.passbolt.com",
+    "ansprechpartner": "",
+    "email": "admin@passbolt.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/passbolt-sa-2576965"
+  },
+  {
+    "unternehmensname": "Passeca GmbH",
+    "domain": "passeca.com",
+    "ansprechpartner": "",
+    "email": "pavlo.krasovsky@passeca.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/passeca-gmbh-2575365"
+  },
+  {
+    "unternehmensname": "Passguard",
+    "domain": "passguard.com",
+    "ansprechpartner": "",
+    "email": "info@passguard.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/passguard-2577713"
+  },
+  {
+    "unternehmensname": "Passwork Europe SL",
+    "domain": "passwork.pro",
+    "ansprechpartner": "",
+    "email": "info@passwork.pro",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/passwork-europe-sl-2576603"
+  },
+  {
+    "unternehmensname": "Pathlock Deutschland GmbH",
+    "domain": "pathlock.de",
+    "ansprechpartner": "",
+    "email": "hamburg@pathlock.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pathlock-deutschland-gmbh-2576170"
+  },
+  {
+    "unternehmensname": "pco Personal Computer Organisation GmbH & Co.KG",
+    "domain": "www.pco-online.de",
+    "ansprechpartner": "",
+    "email": "info@pco-online.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pco-personal-computer-organisation-gmbh-cokg-2575600"
+  },
+  {
+    "unternehmensname": "pebes GmbH",
+    "domain": "pebes.de",
+    "ansprechpartner": "",
+    "email": "service@pebes.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pebes-gmbh-2594494"
+  },
+  {
+    "unternehmensname": "Penta Security Inc.",
+    "domain": "www.pentasecurity.com",
+    "ansprechpartner": "",
+    "email": "info@pentasecurity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/penta-security-inc-2594501"
+  },
+  {
+    "unternehmensname": "Pentaris Security GmbH",
+    "domain": "www.pentaris-security.de",
+    "ansprechpartner": "",
+    "email": "info@pentaris-security.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pentaris-security-gmbh-2575416"
+  },
+  {
+    "unternehmensname": "Pentera Security",
+    "domain": "www.pentera.io",
+    "ansprechpartner": "",
+    "email": "GermanyOffice@pentera.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pentera-security-2578361"
+  },
+  {
+    "unternehmensname": "permSECURE GmbH",
+    "domain": "www.permsecure.com",
+    "ansprechpartner": "",
+    "email": "info@permsecure.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/permsecure-gmbh-2576492"
+  },
+  {
+    "unternehmensname": "PFALZKOM",
+    "domain": "www.pfalzkom.de",
+    "ansprechpartner": "",
+    "email": "info@pfalzkom.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pfalzkom-2590756"
+  },
+  {
+    "unternehmensname": "Phalanx-IT GmbH",
+    "domain": "www.phalanx-it.de",
+    "ansprechpartner": "",
+    "email": "info@fil.phalanx-it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/phalanx-it-gmbh-2577189"
+  },
+  {
+    "unternehmensname": "PHOENIX CONTACT GmbH & Co. KG",
+    "domain": "www.phoenixcontact.com",
+    "ansprechpartner": "",
+    "email": "info@phoenixcontact.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/phoenix-contact-gmbh-co-kg-2575823"
+  },
+  {
+    "unternehmensname": "Ping Identity",
+    "domain": "www.pingidentity.com",
+    "ansprechpartner": "",
+    "email": "sabrinahabbe@pingidentity.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ping-identity-2575896"
+  },
+  {
+    "unternehmensname": "PlexTrac",
+    "domain": "www.plextrac.com",
+    "ansprechpartner": "",
+    "email": "hgoslin@plextrac.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/plextrac-2575387"
+  },
+  {
+    "unternehmensname": "Pointsharp",
+    "domain": "www.pointsharp.com",
+    "ansprechpartner": "",
+    "email": "info@pointsharp.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pointsharp-2576092"
+  },
+  {
+    "unternehmensname": "Possehl Secure GmbH",
+    "domain": "www.possehl-secure.de",
+    "ansprechpartner": "",
+    "email": "info@possehl-secure.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/possehl-secure-gmbh-2613029"
+  },
+  {
+    "unternehmensname": "PowerDMARC",
+    "domain": "powerdmarc.com",
+    "ansprechpartner": "",
+    "email": "support@powerdmarc.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/powerdmarc-2590712"
+  },
+  {
+    "unternehmensname": "Prianto GmbH",
+    "domain": "www.prianto.com",
+    "ansprechpartner": "",
+    "email": "marketing@prianto.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/prianto-gmbh-2576867"
+  },
+  {
+    "unternehmensname": "PROFI Engineering Systems AG",
+    "domain": "www.profi-ag.de",
+    "ansprechpartner": "",
+    "email": "profi@profi-ag.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/profi-engineering-systems-ag-2594907"
+  },
+  {
+    "unternehmensname": "ProID Solutions by Monet+",
+    "domain": "www.proid.tech",
+    "ansprechpartner": "",
+    "email": "info@proid.tech",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/proid-solutions-by-monet-2577367"
+  },
+  {
+    "unternehmensname": "Proliance GmbH",
+    "domain": "proliance.ai",
+    "ansprechpartner": "",
+    "email": "info@prolianc.ai",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/proliance-gmbh-2576587"
+  },
+  {
+    "unternehmensname": "Proofpoint GmbH",
+    "domain": "www.proofpoint.com/de",
+    "ansprechpartner": "",
+    "email": "info-germany@proofpoint.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/proofpoint-gmbh-2575618"
+  },
+  {
+    "unternehmensname": "PROTECTLY by Smart-Study",
+    "domain": "protectly.eu",
+    "ansprechpartner": "",
+    "email": "info@smartstudy.at",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/protectly-by-smart-study-2576227"
+  },
+  {
+    "unternehmensname": "Protiviti GmbH",
+    "domain": "www.protiviti.de",
+    "ansprechpartner": "",
+    "email": "contact@protiviti.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/protiviti-gmbh-2576144"
+  },
+  {
+    "unternehmensname": "Provectus Software GmbH",
+    "domain": "www.provectus-software.de",
+    "ansprechpartner": "",
+    "email": "pvs-channel@provectus.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/provectus-software-gmbh-2575531"
+  },
+  {
+    "unternehmensname": "PSW GROUP GmbH & Co. KG",
+    "domain": "www.psw-group.de",
+    "ansprechpartner": "",
+    "email": "marketing@psw.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/psw-group-gmbh-co-kg-2575770"
+  },
+  {
+    "unternehmensname": "Pyramid Computer GmbH",
+    "domain": "www.pyramid-computer.com",
+    "ansprechpartner": "",
+    "email": "akhet@pyramid-computer.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/pyramid-computer-gmbh-2578141"
+  },
+  {
+    "unternehmensname": "Q-FOX® Gruppe",
+    "domain": "www.qfox.de",
+    "ansprechpartner": "",
+    "email": "info@qfox.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/q-fox-gruppe-2601453"
+  },
+  {
+    "unternehmensname": "QESTIT GmbH",
+    "domain": "www.qestit.com",
+    "ansprechpartner": "",
+    "email": "info@qestit.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/qestit-gmbh-2575529"
+  },
+  {
+    "unternehmensname": "Qevlar AI",
+    "domain": "www.qevlar.com",
+    "ansprechpartner": "",
+    "email": "charles@qevlar.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/qevlar-ai-2577669"
+  },
+  {
+    "unternehmensname": "QGroup GmbH",
+    "domain": "www.qgroup.de",
+    "ansprechpartner": "",
+    "email": "info@qgroup.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/qgroup-gmbh-2576843"
+  },
+  {
+    "unternehmensname": "qSkills GmbH & Co. KG",
+    "domain": "qskills.de",
+    "ansprechpartner": "",
+    "email": "anfragen@qskills.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/qskills-gmbh-co-kg-2575858"
+  },
+  {
+    "unternehmensname": "Qualys GmbH",
+    "domain": "www.qualys.com",
+    "ansprechpartner": "",
+    "email": "jvollmer@qualys.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/qualys-gmbh-2576696"
+  },
+  {
+    "unternehmensname": "Quantum Optics Jena GmbH",
+    "domain": "www.qo-jena.com",
+    "ansprechpartner": "",
+    "email": "info@qo-jena.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/quantum-optics-jena-gmbh-2575398"
+  },
+  {
+    "unternehmensname": "Quest Software GmbH",
+    "domain": "www.quest.com/de",
+    "ansprechpartner": "",
+    "email": "katharina.kaltenborn@quest.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/quest-software-gmbh-2575930"
+  },
+  {
+    "unternehmensname": "RACKMOUNT.IT",
+    "domain": "www.rackmount.it",
+    "ansprechpartner": "",
+    "email": "sales@rackmount.it",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rackmountit-2577167"
+  },
+  {
+    "unternehmensname": "racknex",
+    "domain": "racknex.com",
+    "ansprechpartner": "",
+    "email": "office@racknex.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/racknex-2576952"
+  },
+  {
+    "unternehmensname": "Rapid7",
+    "domain": "www.rapid7.com/de",
+    "ansprechpartner": "",
+    "email": "info@rapid7.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rapid7-2575878"
+  },
+  {
+    "unternehmensname": "Recorded Future GmbH",
+    "domain": "www.recordedfuture.com",
+    "ansprechpartner": "",
+    "email": "info@recordedfuture.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/recorded-future-gmbh-2578725"
+  },
+  {
+    "unternehmensname": "RedMimicry GmbH",
+    "domain": "redmimicry.com",
+    "ansprechpartner": "",
+    "email": "mail@redmimicry.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/redmimicry-gmbh-2575395"
+  },
+  {
+    "unternehmensname": "Rehm GmbH",
+    "domain": "www.rehm.gmbh",
+    "ansprechpartner": "",
+    "email": "kontakt@rehm.gmbh",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rehm-gmbh-2577275"
+  },
+  {
+    "unternehmensname": "REINER SCT",
+    "domain": "www.reiner-sct.com",
+    "ansprechpartner": "",
+    "email": "sales@reiner-sct.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/reiner-sct-2575906"
+  },
+  {
+    "unternehmensname": "Relution GmbH",
+    "domain": "relution.io",
+    "ansprechpartner": "",
+    "email": "info@relution.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/relution-gmbh-2577932"
+  },
+  {
+    "unternehmensname": "Remediata s.r.o",
+    "domain": "remediata.sk",
+    "ansprechpartner": "",
+    "email": "matus.mihok@remediata.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/remediata-sro-2613038"
+  },
+  {
+    "unternehmensname": "Resistine s.r.o",
+    "domain": "www.resistine.com",
+    "ansprechpartner": "",
+    "email": "iri@resistine.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/resistine-sro-2576832"
+  },
+  {
+    "unternehmensname": "revel8 GmbH",
+    "domain": "www.revel8.ai",
+    "ansprechpartner": "",
+    "email": "info@revel8.ai",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/revel8-gmbh-2588757"
+  },
+  {
+    "unternehmensname": "Rhebo GmbH",
+    "domain": "www.rhebo.com",
+    "ansprechpartner": "",
+    "email": "marketing@rhebo.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rhebo-gmbh-2576759"
+  },
+  {
+    "unternehmensname": "RIEDEL Networks GmbH & Co. KG",
+    "domain": "www.riedel-networks.net",
+    "ansprechpartner": "",
+    "email": "rn-info@riedel.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/riedel-networks-gmbh-co-kg-2576670"
+  },
+  {
+    "unternehmensname": "RIMIAN GmbH",
+    "domain": "www.rimian.io",
+    "ansprechpartner": "",
+    "email": "info@rimian.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rimian-gmbh-2577745"
+  },
+  {
+    "unternehmensname": "Rittal GmbH & Co. KG",
+    "domain": "www.rittal.de",
+    "ansprechpartner": "",
+    "email": "info@rittal.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rittal-gmbh-co-kg-2576573"
+  },
+  {
+    "unternehmensname": "Riverbird GmbH",
+    "domain": "www.riverbird.de",
+    "ansprechpartner": "",
+    "email": "vertrieb@riverbird.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/riverbird-gmbh-2575715"
+  },
+  {
+    "unternehmensname": "Rohde & Schwarz",
+    "domain": "www.rohde-schwarz.com",
+    "ansprechpartner": "",
+    "email": "info@rohde-schwarz.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rohde-schwarz-2575806"
+  },
+  {
+    "unternehmensname": "RPost US, Inc",
+    "domain": "rpost.com",
+    "ansprechpartner": "",
+    "email": "ramalvy@rpost.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rpost-us-inc-2593088"
+  },
+  {
+    "unternehmensname": "Rubrik",
+    "domain": "www.rubrik.com/de",
+    "ansprechpartner": "",
+    "email": "info@rubrik.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/rubrik-2576700"
+  },
+  {
+    "unternehmensname": "S2W Inc.",
+    "domain": "s2w.inc/en",
+    "ansprechpartner": "",
+    "email": "youjeong.lee@s2w.inc",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/s2w-inc-2592233"
+  },
+  {
+    "unternehmensname": "SailPoint Technologies GmbH",
+    "domain": "www.sailpoint.com",
+    "ansprechpartner": "",
+    "email": "german_sales@sailpoint.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sailpoint-technologies-gmbh-2576698"
+  },
+  {
+    "unternehmensname": "Samsung Electronics GmbH",
+    "domain": "www.samsung.com/de/business",
+    "ansprechpartner": "",
+    "email": "",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/samsung-electronics-gmbh-2576138"
+  },
+  {
+    "unternehmensname": "Samsung SDS Europe",
+    "domain": "www.samsungsds.com",
+    "ansprechpartner": "",
+    "email": "a.rehmann@samsung.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/samsung-sds-europe-2614733"
+  },
+  {
+    "unternehmensname": "SANCTUARY Systems GmbH",
+    "domain": "sanctuary.dev/en",
+    "ansprechpartner": "",
+    "email": "info@sanctuary.dev",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sanctuary-systems-gmbh-2577557"
+  },
+  {
+    "unternehmensname": "SanData IT-Gruppe",
+    "domain": "www.sandata.net/main.asp?VID=1&lng=1&kat1=94&kat2=666",
+    "ansprechpartner": "",
+    "email": "m.hornung@sandata.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sandata-it-gruppe-2601447"
+  },
+  {
+    "unternehmensname": "SandGrain B.V.",
+    "domain": "www.sandgrain.eu",
+    "ansprechpartner": "",
+    "email": "rolf.van.gent@sandgrain.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sandgrain-bv-2575830"
+  },
+  {
+    "unternehmensname": "SANS Institute",
+    "domain": "www.sans.org",
+    "ansprechpartner": "",
+    "email": "emea@sans.org",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sans-institute-2575837"
+  },
+  {
+    "unternehmensname": "SAS Evertrust",
+    "domain": "evertrust.fr",
+    "ansprechpartner": "",
+    "email": "gju@evertrust.fr",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sas-evertrust-2575634"
+  },
+  {
+    "unternehmensname": "SAS HOGO BUSINESS SERVICES",
+    "domain": "hogo.eu",
+    "ansprechpartner": "",
+    "email": "hello@hogo.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sas-hogo-business-services-2575955"
+  },
+  {
+    "unternehmensname": "sayTEC AG",
+    "domain": "www.saytec.eu",
+    "ansprechpartner": "",
+    "email": "kontakt@saytec.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/saytec-ag-2590761"
+  },
+  {
+    "unternehmensname": "ScaleITS GmbH",
+    "domain": "www.scaleits.com",
+    "ansprechpartner": "",
+    "email": "info@scaleits.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/scaleits-gmbh-2578786"
+  },
+  {
+    "unternehmensname": "ScaleUp Technologies GmbH & Co. KG",
+    "domain": "www.scaleuptech.com",
+    "ansprechpartner": "",
+    "email": "hello@scaleuptech.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/scaleup-technologies-gmbh-co-kg-2583411"
+  },
+  {
+    "unternehmensname": "SCHÄFER Ausstattungs-Systeme GmbH",
+    "domain": "www.schaefer-it-systems.de",
+    "ansprechpartner": "",
+    "email": "sales@schaefer-it-systems.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/schaefer-ausstattungs-systeme-gmbh-2587989"
+  },
+  {
+    "unternehmensname": "Scheer IMC",
+    "domain": "www.scheer-imc.com/de",
+    "ansprechpartner": "",
+    "email": "info@im-c.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/scheer-imc-2576063"
+  },
+  {
+    "unternehmensname": "Secfix GmbH c/o Mindspace",
+    "domain": "secfix.com",
+    "ansprechpartner": "",
+    "email": "lilian@secfix.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secfix-gmbh-co-mindspace-2605405"
+  },
+  {
+    "unternehmensname": "secida AG",
+    "domain": "www.secida.com",
+    "ansprechpartner": "",
+    "email": "info@secida.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secida-ag-2578331"
+  },
+  {
+    "unternehmensname": "Secomea A/S",
+    "domain": "www.secomea.com",
+    "ansprechpartner": "",
+    "email": "hej@secomea.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secomea-as-2612569"
+  },
+  {
+    "unternehmensname": "sector27 GmbH",
+    "domain": "www.sector27.de",
+    "ansprechpartner": "",
+    "email": "info@sector27.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sector27-gmbh-2575787"
+  },
+  {
+    "unternehmensname": "SECUINFRA GmbH",
+    "domain": "www.secuinfra.com/de",
+    "ansprechpartner": "",
+    "email": "sales@secuinfra.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secuinfra-gmbh-2577197"
+  },
+  {
+    "unternehmensname": "SecuMailer",
+    "domain": "www.secumailer.de",
+    "ansprechpartner": "",
+    "email": "yvonne@secumailer.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secumailer-2578336"
+  },
+  {
+    "unternehmensname": "secunet Security Networks AG",
+    "domain": "www.secunet.com",
+    "ansprechpartner": "",
+    "email": "info@secunet.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secunet-security-networks-ag-2576825"
+  },
+  {
+    "unternehmensname": "SecureCloud GmbH",
+    "domain": "www.securecloud.de",
+    "ansprechpartner": "",
+    "email": "info@securecloud.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/securecloud-gmbh-2576848"
+  },
+  {
+    "unternehmensname": "SecureMe2 B.V.",
+    "domain": "secureme2.eu",
+    "ansprechpartner": "",
+    "email": "info@secureme2.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secureme2-bv-2576301"
+  },
+  {
+    "unternehmensname": "Securepoint GmbH",
+    "domain": "www.securepoint.de",
+    "ansprechpartner": "",
+    "email": "info@securepoint.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/securepoint-gmbh-2576795"
+  },
+  {
+    "unternehmensname": "SecureVisio",
+    "domain": "securevisio.com/en",
+    "ansprechpartner": "",
+    "email": "germany@securevisio.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/securevisio-2577145"
+  },
+  {
+    "unternehmensname": "SecurITe | agentis360",
+    "domain": "securite.world",
+    "ansprechpartner": "",
+    "email": "office@securite.world",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/securite-agentis360-2576618"
+  },
+  {
+    "unternehmensname": "Security4Media association c/o European Broadcast Union",
+    "domain": "security4media.org",
+    "ansprechpartner": "",
+    "email": "info@security4media.org",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/security4media-association-co-european-broadcast-union-2602245"
+  },
+  {
+    "unternehmensname": "SecurityBridge GmbH",
+    "domain": "www.securitybridge.com",
+    "ansprechpartner": "",
+    "email": "info@securitybridge.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/securitybridge-gmbh-2575667"
+  },
+  {
+    "unternehmensname": "SecurityScorecard",
+    "domain": "securityscorecard.com",
+    "ansprechpartner": "",
+    "email": "",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/securityscorecard-2577211"
+  },
+  {
+    "unternehmensname": "secuvera GmbH",
+    "domain": "www.secuvera.de",
+    "ansprechpartner": "",
+    "email": "hello@secuvera.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secuvera-gmbh-2576438"
+  },
+  {
+    "unternehmensname": "secXtreme GmbH",
+    "domain": "www.sec-xtreme.com",
+    "ansprechpartner": "",
+    "email": "marketing@sec-xtreme.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/secxtreme-gmbh-2577597"
+  },
+  {
+    "unternehmensname": "SEH Computertechnik GmbH",
+    "domain": "www.seh.de",
+    "ansprechpartner": "",
+    "email": "m.plass@seh.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/seh-computertechnik-gmbh-2578420"
+  },
+  {
+    "unternehmensname": "SEKOIA.IO",
+    "domain": "www.sekoia.io",
+    "ansprechpartner": "",
+    "email": "rosalie.makpolo.lehuma@sekoia.fr",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sekoiaio-2577171"
+  },
+  {
+    "unternehmensname": "sematicon AG",
+    "domain": "www.sematicon.com",
+    "ansprechpartner": "",
+    "email": "office@sematicon.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sematicon-ag-2577122"
+  },
+  {
+    "unternehmensname": "SentinelOne GmbH",
+    "domain": "www.sentinelone.com",
+    "ansprechpartner": "",
+    "email": "jacquelines@sentinelone.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sentinelone-gmbh-2576784"
+  },
+  {
+    "unternehmensname": "SEPPmail - Deutschland GmbH",
+    "domain": "www.seppmail.de",
+    "ansprechpartner": "",
+    "email": "info@seppmail.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/seppmail-deutschland-gmbh-2575777"
+  },
+  {
+    "unternehmensname": "SerNet GmbH",
+    "domain": "www.sernet.de",
+    "ansprechpartner": "",
+    "email": "kontakt@sernet.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sernet-gmbh-2576744"
+  },
+  {
+    "unternehmensname": "Serviceware SE",
+    "domain": "www.serviceware-se.com",
+    "ansprechpartner": "",
+    "email": "info@serviceware-se.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/serviceware-se-2576934"
+  },
+  {
+    "unternehmensname": "SERVIEW GmbH",
+    "domain": "www.serview.de",
+    "ansprechpartner": "",
+    "email": "info@serview.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/serview-gmbh-2576819"
+  },
+  {
+    "unternehmensname": "Seventythree Networks GmbH",
+    "domain": "www.73s.de",
+    "ansprechpartner": "",
+    "email": "vertrieb@73s.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/seventythree-networks-gmbh-2576703"
+  },
+  {
+    "unternehmensname": "SHD System-Haus-Dresden GmbH",
+    "domain": "www.shd-online.de",
+    "ansprechpartner": "",
+    "email": "info@shd-online.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/shd-system-haus-dresden-gmbh-2577227"
+  },
+  {
+    "unternehmensname": "Siemens AG Digital Industries",
+    "domain": "www.siemens.com",
+    "ansprechpartner": "",
+    "email": "michaelgrimm@siemens.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/siemens-ag-digital-industries-2576815"
+  },
+  {
+    "unternehmensname": "SIGN8 GmbH",
+    "domain": "sign8.eu",
+    "ansprechpartner": "",
+    "email": "lruhland@sign8.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sign8-gmbh-2576129"
+  },
+  {
+    "unternehmensname": "Silverfort GmbH",
+    "domain": "www.silverfort.com",
+    "ansprechpartner": "",
+    "email": "maja.lueken@silverfort.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/silverfort-gmbh-2599306"
+  },
+  {
+    "unternehmensname": "SITS Deutschland GmbH",
+    "domain": "sits.com/de",
+    "ansprechpartner": "",
+    "email": "info@sits-d.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sits-deutschland-gmbh-2576151"
+  },
+  {
+    "unternehmensname": "sodge IT GmbH",
+    "domain": "www.sodgeit.de",
+    "ansprechpartner": "",
+    "email": "kontakt@sodgeit.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sodge-it-gmbh-2612571"
+  },
+  {
+    "unternehmensname": "SoftwareOne Deutschland GmbH",
+    "domain": "softwareone.com",
+    "ansprechpartner": "",
+    "email": "info.de@softwareone.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/softwareone-deutschland-gmbh-2576401"
+  },
+  {
+    "unternehmensname": "Sonatype",
+    "domain": "www.sonatype.com",
+    "ansprechpartner": "",
+    "email": "europe@sonatype.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sonatype-2576711"
+  },
+  {
+    "unternehmensname": "SonicWall GmbH",
+    "domain": "www.sonicwall.com/de-de",
+    "ansprechpartner": "",
+    "email": "germany@sonicwall.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sonicwall-gmbh-2575904"
+  },
+  {
+    "unternehmensname": "Sophos Technology GmbH",
+    "domain": "www.sophos.de",
+    "ansprechpartner": "",
+    "email": "info@sophos.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sophos-technology-gmbh-2576977"
+  },
+  {
+    "unternehmensname": "SoSafe SE",
+    "domain": "sosafe-awareness.com/de",
+    "ansprechpartner": "",
+    "email": "info@sosafe.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sosafe-se-2576526"
+  },
+  {
+    "unternehmensname": "Specops Software GmbH",
+    "domain": "specopssoft.com",
+    "ansprechpartner": "",
+    "email": "info@outpost24.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/specops-software-gmbh-2575512"
+  },
+  {
+    "unternehmensname": "Spike Reply GmbH",
+    "domain": "www.reply.com/spike-reply/de",
+    "ansprechpartner": "",
+    "email": "spike@reply.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/spike-reply-gmbh-2576390"
+  },
+  {
+    "unternehmensname": "SSC-Services GmbH",
+    "domain": "www.ssc-services.de",
+    "ansprechpartner": "",
+    "email": "f.siebold@ssc-services.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ssc-services-gmbh-2576738"
+  },
+  {
+    "unternehmensname": "STARFACE GmbH",
+    "domain": "www.starface.com",
+    "ansprechpartner": "",
+    "email": "vertrieb@starface.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/starface-gmbh-2575842"
+  },
+  {
+    "unternehmensname": "Strohm & Söhne e.V. Technische Hochschule Nürnberg Georg Simon Ohm Formula Student",
+    "domain": "strohmundsoehne.de",
+    "ansprechpartner": "",
+    "email": "teamleitung@strohmleitung.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/strohm-soehne-ev-technische-hochschule-nuernberg-georg-simon-ohm-formula-student-2576238"
+  },
+  {
+    "unternehmensname": "Sumo Logic Limited",
+    "domain": "sumologic.com",
+    "ansprechpartner": "",
+    "email": "sales@sumologic.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sumo-logic-limited-2575448"
+  },
+  {
+    "unternehmensname": "SVA",
+    "domain": "www.sva.de",
+    "ansprechpartner": "",
+    "email": "mail@sva.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sva-2576166"
+  },
+  {
+    "unternehmensname": "Swissbit AG",
+    "domain": "www.swissbit.com",
+    "ansprechpartner": "",
+    "email": "sales@swissbit.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/swissbit-ag-2576382"
+  },
+  {
+    "unternehmensname": "Symantec by Broadcom",
+    "domain": "www.arrow.com/globalecs/de/produkte/symantec",
+    "ansprechpartner": "",
+    "email": "",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/symantec-by-broadcom-2577767"
+  },
+  {
+    "unternehmensname": "SYNAXON AG",
+    "domain": "synaxon.com",
+    "ansprechpartner": "",
+    "email": "expansion@synaxon.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/synaxon-ag-2575476"
+  },
+  {
+    "unternehmensname": "Synology GmbH",
+    "domain": "www.synology.com",
+    "ansprechpartner": "",
+    "email": "dach_marketing@synology.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/synology-gmbh-2575872"
+  },
+  {
+    "unternehmensname": "Sysdig",
+    "domain": "www.sysdig.com",
+    "ansprechpartner": "",
+    "email": "sales@sysdig.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sysdig-2575533"
+  },
+  {
+    "unternehmensname": "sysob IT-Distribution GmbH & Co. KG",
+    "domain": "www.sysob.com",
+    "ansprechpartner": "",
+    "email": "info@sysob.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/sysob-it-distribution-gmbh-co-kg-2576594"
+  },
+  {
+    "unternehmensname": "SySS GmbH",
+    "domain": "www.syss.de",
+    "ansprechpartner": "",
+    "email": "info@syss.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/syss-gmbh-2575994"
+  },
+  {
+    "unternehmensname": "Syteca",
+    "domain": "syteca.com",
+    "ansprechpartner": "",
+    "email": "info@syteca.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/syteca-2575827"
+  },
+  {
+    "unternehmensname": "TANDBERG DATA",
+    "domain": "tandbergdata-stor.com",
+    "ansprechpartner": "",
+    "email": "kdu@tandberg-data.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tandberg-data-2607874"
+  },
+  {
+    "unternehmensname": "TANSS® by HUCK IT GmbH",
+    "domain": "www.tanss.de",
+    "ansprechpartner": "",
+    "email": "vertrieb@tanss.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tanss-by-huck-it-gmbh-2576971"
+  },
+  {
+    "unternehmensname": "TAROX AG",
+    "domain": "www.tarox.de",
+    "ansprechpartner": "",
+    "email": "events@tarox.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tarox-ag-2575730"
+  },
+  {
+    "unternehmensname": "TEAL Technology Consulting GmbH",
+    "domain": "www.teal-consulting.de",
+    "ansprechpartner": "",
+    "email": "lisa.werner@teal-consulting.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/teal-technology-consulting-gmbh-2575789"
+  },
+  {
+    "unternehmensname": "Teamwire GmbH",
+    "domain": "teamwire.eu",
+    "ansprechpartner": "",
+    "email": "info@teamwire.eu",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/teamwire-gmbh-2576078"
+  },
+  {
+    "unternehmensname": "TechniData IT AG",
+    "domain": "www.technidata.de",
+    "ansprechpartner": "",
+    "email": "marketing@technidata.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/technidata-it-ag-2576846"
+  },
+  {
+    "unternehmensname": "Techway",
+    "domain": "www.techway.ch",
+    "ansprechpartner": "",
+    "email": "info@techway.ch",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/techway-2612991"
+  },
+  {
+    "unternehmensname": "telent GmbH",
+    "domain": "www.telent.de",
+    "ansprechpartner": "",
+    "email": "marketing@telent.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/telent-gmbh-2576043"
+  },
+  {
+    "unternehmensname": "Telonic GmbH",
+    "domain": "www.telonic.de",
+    "ansprechpartner": "",
+    "email": "kontakt@telonic.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/telonic-gmbh-2576648"
+  },
+  {
+    "unternehmensname": "temino GmbH",
+    "domain": "www.temino.de",
+    "ansprechpartner": "",
+    "email": "info@isimap.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/temino-gmbh-2576662"
+  },
+  {
+    "unternehmensname": "TEMS GmbH",
+    "domain": "www.tems.at",
+    "ansprechpartner": "",
+    "email": "office@tems.at",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tems-gmbh-2578175"
+  },
+  {
+    "unternehmensname": "Tenable Network Security GmbH",
+    "domain": "www.tenable.com",
+    "ansprechpartner": "",
+    "email": "sales-de@tenable.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tenable-network-security-gmbh-2577029"
+  },
+  {
+    "unternehmensname": "tenfold Software GmbH",
+    "domain": "www.tenfold-security.com",
+    "ansprechpartner": "",
+    "email": "info@tenfold-security.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tenfold-software-gmbh-2576666"
+  },
+  {
+    "unternehmensname": "ThinkQuantum",
+    "domain": "www.thinkquantum.com",
+    "ansprechpartner": "",
+    "email": "info@thinkquantum.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/thinkquantum-2576724"
+  },
+  {
+    "unternehmensname": "ThinPrint GmbH",
+    "domain": "ezeep.com",
+    "ansprechpartner": "",
+    "email": "info@thinprint.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/thinprint-gmbh-2575663"
+  },
+  {
+    "unternehmensname": "ThreatLocker",
+    "domain": "threatlocker.com",
+    "ansprechpartner": "",
+    "email": "sales@threatlocker.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/threatlocker-2576157"
+  },
+  {
+    "unternehmensname": "TIM AG",
+    "domain": "www.tim-vad.com",
+    "ansprechpartner": "",
+    "email": "tim@tim.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tim-ag-2576981"
+  },
+  {
+    "unternehmensname": "Tines",
+    "domain": "www.tines.com",
+    "ansprechpartner": "",
+    "email": "hello@tines.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tines-2577295"
+  },
+  {
+    "unternehmensname": "TogetherSecure GmbH",
+    "domain": "www.togethersecure.com",
+    "ansprechpartner": "",
+    "email": "office@togethersecure.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/togethersecure-gmbh-2576027"
+  },
+  {
+    "unternehmensname": "Tools4ever Informatik GmbH",
+    "domain": "www.tools4ever.de",
+    "ansprechpartner": "",
+    "email": "info@tools4ever.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tools4ever-informatik-gmbh-2578102"
+  },
+  {
+    "unternehmensname": "Torq Technologies Ltd.",
+    "domain": "torq.io",
+    "ansprechpartner": "",
+    "email": "lena.raue@torq.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/torq-technologies-ltd-2601440"
+  },
+  {
+    "unternehmensname": "TP-Link Deutschland GmbH",
+    "domain": "www.tp-link.de",
+    "ansprechpartner": "",
+    "email": "jake.luo@tp-link.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tp-link-deutschland-gmbh-2575709"
+  },
+  {
+    "unternehmensname": "Transferstelle Cybersicherheit im Mittelstand",
+    "domain": "",
+    "ansprechpartner": "",
+    "email": "info@transferstelle-cybersicherheit.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/transferstelle-cybersicherheit-im-mittelstand-2575677"
+  },
+  {
+    "unternehmensname": "Trend Micro Deutschland GmbH",
+    "domain": "www.trendmicro.com",
+    "ansprechpartner": "",
+    "email": "salesinfo_de@trendmicro.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/trend-micro-deutschland-gmbh-2576519"
+  },
+  {
+    "unternehmensname": "Tricept Informationssysteme AG",
+    "domain": "www.tricept.de",
+    "ansprechpartner": "",
+    "email": "kontakt@tricept.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tricept-informationssysteme-ag-2613760"
+  },
+  {
+    "unternehmensname": "Trovent Security GmbH",
+    "domain": "www.trovent.io",
+    "ansprechpartner": "",
+    "email": "office@trovent.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/trovent-security-gmbh-2578132"
+  },
+  {
+    "unternehmensname": "TTS Trusted Technologies and Solutions GmbH",
+    "domain": "www.tts-security.com",
+    "ansprechpartner": "",
+    "email": "info@tts-security.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tts-trusted-technologies-and-solutions-gmbh-2576735"
+  },
+  {
+    "unternehmensname": "Tufin",
+    "domain": "www.tufin.com",
+    "ansprechpartner": "",
+    "email": "aline.kollert@tufin.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tufin-2576932"
+  },
+  {
+    "unternehmensname": "Tutao GmbH",
+    "domain": "tuta.com/de",
+    "ansprechpartner": "",
+    "email": "j.datkewitz@tutao.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tutao-gmbh-2612985"
+  },
+  {
+    "unternehmensname": "TÜV Informationstechnik GmbH",
+    "domain": "www.tuvit.de",
+    "ansprechpartner": "",
+    "email": "info@tuvit.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tuev-informationstechnik-gmbh-2578220"
+  },
+  {
+    "unternehmensname": "TUXEDO Computers",
+    "domain": "www.tuxedocomputers.com",
+    "ansprechpartner": "",
+    "email": "presse@tuxedocomputers.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/tuxedo-computers-2575687"
+  },
+  {
+    "unternehmensname": "TWINSOFT GmbH & Co. KG",
+    "domain": "www.twinsoft.de",
+    "ansprechpartner": "",
+    "email": "info@twinsoft.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/twinsoft-gmbh-co-kg-2578243"
+  },
+  {
+    "unternehmensname": "TXOne Networks Europe",
+    "domain": "www.txone.com",
+    "ansprechpartner": "",
+    "email": "europe@txone.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/txone-networks-europe-2576909"
+  },
+  {
+    "unternehmensname": "UBM GmbH",
+    "domain": "www.ubm-global.com",
+    "ansprechpartner": "",
+    "email": "germany@ubm-global.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ubm-gmbh-2576103"
+  },
+  {
+    "unternehmensname": "uib GmbH",
+    "domain": "uib.de",
+    "ansprechpartner": "",
+    "email": "sales@uib.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/uib-gmbh-2590777"
+  },
+  {
+    "unternehmensname": "UNITEX Corporation",
+    "domain": "www.unitex.co.jp",
+    "ansprechpartner": "",
+    "email": "wwsales@unitex.co.jp",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/unitex-corporation-2575381"
+  },
+  {
+    "unternehmensname": "UPONU GmbH",
+    "domain": "www.uponu.com",
+    "ansprechpartner": "",
+    "email": "info@uponu.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/uponu-gmbh-2578167"
+  },
+  {
+    "unternehmensname": "USER 2000 AG",
+    "domain": "www.user2000.de",
+    "ansprechpartner": "",
+    "email": "info@user2000.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/user-2000-ag-2590799"
+  },
+  {
+    "unternehmensname": "Utimaco GmbH",
+    "domain": "www.utimaco.com",
+    "ansprechpartner": "",
+    "email": "marketing@utimaco.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/utimaco-gmbh-2575923"
+  },
+  {
+    "unternehmensname": "VALEO IT Neteye GmbH",
+    "domain": "www.vitn.de",
+    "ansprechpartner": "",
+    "email": "neteye@vitn.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/valeo-it-neteye-gmbh-2594927"
+  },
+  {
+    "unternehmensname": "Varonis Systems",
+    "domain": "www.varonis.de",
+    "ansprechpartner": "",
+    "email": "sales-germany@varonis.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/varonis-systems-2576575"
+  },
+  {
+    "unternehmensname": "Vectra AI Inc.",
+    "domain": "www.vectra.ai",
+    "ansprechpartner": "",
+    "email": "info@vectra.ai",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/vectra-ai-inc-2576921"
+  },
+  {
+    "unternehmensname": "Veeam Software GmbH",
+    "domain": "www.veeam.com/de",
+    "ansprechpartner": "",
+    "email": "veeam_team@veeam.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/veeam-software-gmbh-2576008"
+  },
+  {
+    "unternehmensname": "VENDOSOFT GmbH",
+    "domain": "www.vendosoft.de",
+    "ansprechpartner": "",
+    "email": "info@vendosoft.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/vendosoft-gmbh-2577410"
+  },
+  {
+    "unternehmensname": "Ventx Solutions GmbH",
+    "domain": "www.ventx.de",
+    "ansprechpartner": "",
+    "email": "info@ventx.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/ventx-solutions-gmbh-2576515"
+  },
+  {
+    "unternehmensname": "VIDEC Data Engineering GmbH",
+    "domain": "www.videc.de",
+    "ansprechpartner": "",
+    "email": "info@videc.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/videc-data-engineering-gmbh-2576100"
+  },
+  {
+    "unternehmensname": "VISS",
+    "domain": "www.viss.cc",
+    "ansprechpartner": "",
+    "email": "info@viss.cc",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/viss-2598509"
+  },
+  {
+    "unternehmensname": "Vodafone GmbH",
+    "domain": "www.vodafone.de",
+    "ansprechpartner": "",
+    "email": "businesspartner@vodafone.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/vodafone-gmbh-2577013"
+  },
+  {
+    "unternehmensname": "VORNAC GmbH",
+    "domain": "VORNAC.com",
+    "ansprechpartner": "",
+    "email": "hello@VORNAC.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/vornac-gmbh-2612557"
+  },
+  {
+    "unternehmensname": "WAGO GmbH & Co. KG",
+    "domain": "www.wago.com/de",
+    "ansprechpartner": "",
+    "email": "info@wago.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wago-gmbh-co-kg-2575840"
+  },
+  {
+    "unternehmensname": "WALLIX GmbH",
+    "domain": "www.wallix.com",
+    "ansprechpartner": "",
+    "email": "sales-dach@wallix.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wallix-gmbh-2576484"
+  },
+  {
+    "unternehmensname": "Wasabi Technologies",
+    "domain": "www.wasabi.com",
+    "ansprechpartner": "",
+    "email": "info@wasabi.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wasabi-technologies-2576098"
+  },
+  {
+    "unternehmensname": "WatchGuard Technologies GmbH",
+    "domain": "www.watchguard.com/de",
+    "ansprechpartner": "",
+    "email": "germanysales@watchguard.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/watchguard-technologies-gmbh-2575975"
+  },
+  {
+    "unternehmensname": "Westcon Group Germany GmbH",
+    "domain": "www.westconcomstor.com",
+    "ansprechpartner": "",
+    "email": "securitymarketing.de@westcon.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/westcon-group-germany-gmbh-2576567"
+  },
+  {
+    "unternehmensname": "whitelisthackers GmbH",
+    "domain": "www.whitelisthackers.com",
+    "ansprechpartner": "",
+    "email": "hello@wlh.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/whitelisthackers-gmbh-2576938"
+  },
+  {
+    "unternehmensname": "Wire GmbH",
+    "domain": "www.wire.com",
+    "ansprechpartner": "",
+    "email": "marketing@wire.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wire-gmbh-2575983"
+  },
+  {
+    "unternehmensname": "Wirtschaftsförderung Region Stuttgart CARS 2.0",
+    "domain": "cars.region-stuttgart.de",
+    "ansprechpartner": "",
+    "email": "thomsen.ghebresellassie@region-stuttgart.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wirtschaftsfoerderung-region-stuttgart-cars-20-2577722"
+  },
+  {
+    "unternehmensname": "WithSecure GmbH",
+    "domain": "www.withsecure.com",
+    "ansprechpartner": "",
+    "email": "info-de@withsecure.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/withsecure-gmbh-2576690"
+  },
+  {
+    "unternehmensname": "Wiz Cloud Germany GmbH",
+    "domain": "www.wiz.io/de-de",
+    "ansprechpartner": "",
+    "email": "hi@wiz.io",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wiz-cloud-germany-gmbh-2578300"
+  },
+  {
+    "unternehmensname": "wolfSSL",
+    "domain": "www.wolfssl.com",
+    "ansprechpartner": "",
+    "email": "facts@wolfssl.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wolfssl-2576579"
+  },
+  {
+    "unternehmensname": "Worldline Germany GmbH",
+    "domain": "www.worldline.com/de",
+    "ansprechpartner": "",
+    "email": "infowl-de@worldline.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/worldline-germany-gmbh-2576107"
+  },
+  {
+    "unternehmensname": "WorNet AG",
+    "domain": "www.secumail.de",
+    "ansprechpartner": "",
+    "email": "eich@wor.net",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/wornet-ag-2614724"
+  },
+  {
+    "unternehmensname": "X-Net Technologies GmbH",
+    "domain": "www.x-net.at",
+    "ansprechpartner": "",
+    "email": "office@x-net.at",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/x-net-technologies-gmbh-2577691"
+  },
+  {
+    "unternehmensname": "x1F GmbH",
+    "domain": "www.x1f.one",
+    "ansprechpartner": "",
+    "email": "experience@x1f.one",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/x1f-gmbh-2613017"
+  },
+  {
+    "unternehmensname": "XL CATLIN SERVICES SE",
+    "domain": "axaxl.com",
+    "ansprechpartner": "",
+    "email": "sofya.boddem@axaxl.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/xl-catlin-services-se-2590791"
+  },
+  {
+    "unternehmensname": "XM Cyber",
+    "domain": "www.xmcyber.com",
+    "ansprechpartner": "",
+    "email": "christine.vandenbos@xmcyber.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/xm-cyber-2575868"
+  },
+  {
+    "unternehmensname": "Xopero Software S.A.",
+    "domain": "xopero.com",
+    "ansprechpartner": "",
+    "email": "sales@xopero.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/xopero-software-sa-2577093"
+  },
+  {
+    "unternehmensname": "Yekta IT GmbH",
+    "domain": "yekta-it.de",
+    "ansprechpartner": "",
+    "email": "info@yekta-it.de",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/yekta-it-gmbh-2577344"
+  },
+  {
+    "unternehmensname": "YesWeHack SAS",
+    "domain": "www.yeswehack.com",
+    "ansprechpartner": "",
+    "email": "contact@yeswehack.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/yeswehack-sas-2576855"
+  },
+  {
+    "unternehmensname": "Yubico AB",
+    "domain": "www.yubico.com",
+    "ansprechpartner": "",
+    "email": "patrick.schnell@yubico.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/yubico-ab-2577878"
+  },
+  {
+    "unternehmensname": "Zero Networks",
+    "domain": "www.zeronetworks.com",
+    "ansprechpartner": "",
+    "email": "louise.harkness@zeronetworks.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/zero-networks-2576632"
+  },
+  {
+    "unternehmensname": "Zero Networks LTD",
+    "domain": "zeronetworks.com",
+    "ansprechpartner": "",
+    "email": "kay.ernst@zeronetworks.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/zero-networks-ltd-2612395"
+  },
+  {
+    "unternehmensname": "ZeroFox",
+    "domain": "zerofox.com/free/demo",
+    "ansprechpartner": "",
+    "email": "sales@zerofox.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/zerofox-2575706"
+  },
+  {
+    "unternehmensname": "zerothird GmbH",
+    "domain": "www.zerothird.com",
+    "ansprechpartner": "",
+    "email": "hello@zerothird.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/zerothird-gmbh-2575606"
+  },
+  {
+    "unternehmensname": "Zscaler Germany GmbH",
+    "domain": "www.zscaler.de",
+    "ansprechpartner": "",
+    "email": "communications@zscaler.com",
+    "profilUrl": "https://www.itsa365.de/de-de/aussteller/zscaler-germany-gmbh-2575694"
+  }
+]
