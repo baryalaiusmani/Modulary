@@ -83,6 +83,65 @@ Der Domain-Workflow entfernt ausschließlich die Protokolle `http://` und `https
 
 Für Firmenvergleiche kann eine zweite Datei hochgeladen werden. Die erste Liste ist immer die Ergebnisdatei. Die zweite Liste wird nur als Vergleichsquelle genutzt. Passende Firmen werden in der ersten Liste als vollständige Zeilen rot markiert.
 
+## Werkzeug „Email Suche"
+
+Das E-Mail-Werkzeug bündelt drei Modi in einer Oberfläche (`/tools/email-finder`).
+
+### 1. E-Mail-Suche & Domain-Check
+
+Findet öffentlich sichtbare Firmen-E-Mails über Website-Crawling (Startseite,
+Kontakt, Impressum, Team, Sitemap; dekodiert u. a. Cloudflare-/mailto-
+Verschleierung). Entweder per Domain-Eingabe oder über eine hochgeladene
+Excel-/CSV-Liste, für die fehlende E-Mails ergänzt werden.
+
+### 2. Discovery (modulare OSINT-Anreicherung)
+
+Ergänzt die Website-Suche um verifizierbare Zusatzsignale und weitere Quellen.
+Details und alle Schalter: [`src/features/email-finder/discovery/README.md`](src/features/email-finder/discovery/README.md).
+
+- Standardmäßig ist nur die **MX-Verifizierung + Confidence Score** aktiv; die
+  bestehende Suche bleibt unverändert. Es wird nie ein Treffer entfernt.
+- Zusatzquellen (Suchmaschinen-Dorks, crt.sh, Dokumente, GitHub, Wayback, PGP,
+  Muster-Generierung) werden über Umgebungsvariablen (`EMAIL_FINDER_*`) einzeln
+  aktiviert.
+- Generierte Adressen sind immer als `isGenerated` gekennzeichnet und werden
+  nie mit sicher gefundenen Adressen vermischt.
+
+### 3. EmailValidator (Tab „E-Mail prüfen")
+
+Prüft, ob eine Adresse technisch zustellbar ist – ohne falsche Sicherheit
+vorzutäuschen. Details: [`src/features/email-finder/validator/README.md`](src/features/email-finder/validator/README.md).
+
+- **Option A – einzelne E-Mail** und **Option B – Liste** (`.xlsx`, `.csv`,
+  `.txt`; E-Mail-Spalte wird automatisch erkannt, alle Originalspalten bleiben
+  erhalten, Ergebnisdatei + Zusammenfassung zum Download).
+- Prüfungen: Normalisierung, Syntax, Tippfehler-Vorschlag, Gibberish, DNS/MX/
+  A-Fallback, SMTP (bis `RCPT TO`, **keine echte Mail**), Catch-all, Disposable/
+  Free/Role, TLD-/Risiko-Signale, WHOIS via RDAP, SPF/DKIM/DMARC/MTA-STS.
+- **Statuslogik:** `gültig` nur bei eindeutiger Zustellbarkeit; `ungültig` bei
+  klarem Ausschluss; `riskant` bei Catch-all/Disposable/Role/Qualitätsrisiko;
+  `unbekannt` bei Timeout/Greylisting/Blockade. Zusätzlich `verdict_simple`
+  (gültig / ungültig / manuell_prüfen). Catch-all und unbekannte Fälle gelten
+  nie automatisch als gültig.
+
+Hinweis: SMTP-Prüfungen laufen über Port 25, der in vielen Netzen blockiert
+ist. In dem Fall ist das Ergebnis ehrlich `blocked`/`timeout` → „unbekannt".
+
+### API-Endpunkte
+
+```text
+POST /api/features/email-finder/domain-check   { "domain": "example.com" }
+POST /api/features/email-finder/process         (multipart: file = .xlsx/.csv)
+POST /api/features/email-validator/validate      { "email": "name@firma.de" }
+POST /api/features/email-validator/bulk          (multipart: file, smtp=true|false)
+```
+
+## Tests
+
+```bash
+npm run test        # Vitest (reine Logik: Muster, Extraktion, Validierung, Scoring)
+```
+
 ## Sicherheit und Skalierung
 
 - Uploads werden auf Dateiendung, Größe und Inhalt geprüft.
