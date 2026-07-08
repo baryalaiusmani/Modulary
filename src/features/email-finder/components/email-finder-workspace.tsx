@@ -1,12 +1,13 @@
 "use client";
 
 import { ChangeEvent, DragEvent, useEffect, useRef, useState } from "react";
-import { Clipboard, Download, FileSpreadsheet, Globe, LoaderCircle, MailSearch, RotateCcw, UploadCloud } from "lucide-react";
+import { Clipboard, Download, FileSpreadsheet, Globe, LoaderCircle, MailSearch, RotateCcw, ShieldCheck, UploadCloud } from "lucide-react";
 import type { DomainCheckResult, EmailFinderResult } from "@/features/email-finder/types";
 import { DataPreview } from "@/features/excel/components/data-preview";
+import { EmailValidatorWorkspace } from "@/features/email-finder/components/email-validator-workspace";
 
 export function EmailFinderWorkspace() {
-  const [mode, setMode] = useState<"excel" | "domain">("excel");
+  const [mode, setMode] = useState<"excel" | "domain" | "validate">("excel");
   const [file, setFile] = useState<File | null>(null);
   const [result, setResult] = useState<EmailFinderResult | null>(null);
   const [domain, setDomain] = useState("");
@@ -132,7 +133,12 @@ export function EmailFinderWorkspace() {
           <button className={mode === "domain" ? "active" : ""} onClick={() => { setMode("domain"); setError(""); }}>
             <Globe size={17} /> Domain Check
           </button>
+          <button className={mode === "validate" ? "active" : ""} onClick={() => { setMode("validate"); setError(""); }}>
+            <ShieldCheck size={17} /> E-Mail prüfen
+          </button>
         </div>
+
+        {mode === "validate" && <EmailValidatorWorkspace />}
 
         {mode === "excel" && (
           <div
@@ -160,26 +166,30 @@ export function EmailFinderWorkspace() {
           </div>
         )}
 
-        <div className="info-box">
-          <strong>Hinweis zur Suche</strong>
-          <p>Fehlt eine Domain, wird zuerst nach einer passenden Unternehmensdomain gesucht. Danach werden Startseite, Kontakt, Impressum, Footer- und interne Kontaktlinks nach oeffentlich sichtbaren E-Mails durchsucht.</p>
-        </div>
+        {mode !== "validate" && (
+          <div className="info-box">
+            <strong>Hinweis zur Suche</strong>
+            <p>Fehlt eine Domain, wird zuerst nach einer passenden Unternehmensdomain gesucht. Danach werden Startseite, Kontakt, Impressum, Footer- und interne Kontaktlinks nach oeffentlich sichtbaren E-Mails durchsucht.</p>
+          </div>
+        )}
 
-        {error && <div className="error-message">{error}</div>}
-        {processing && (
+        {mode !== "validate" && error && <div className="error-message">{error}</div>}
+        {mode !== "validate" && processing && (
           <div className="progress">
             <div className="progress-track"><span style={{ width: `${progress}%` }} /></div>
             <span>{progress}% - Webseiten werden durchsucht. Je nach Anzahl der fehlenden E-Mails kann das einige Minuten dauern.</span>
           </div>
         )}
 
-        <div className="action-row">
-          <button className="button secondary" onClick={reset} disabled={processing}><RotateCcw size={18} /> Zuruecksetzen</button>
-          {mode === "excel" && <button className="button primary process-button inline" onClick={submit} disabled={processing}>
-            {processing ? <LoaderCircle className="spin" size={18} /> : <MailSearch size={18} />}
-            {processing ? "Suche laeuft" : "E-Mails suchen"}
-          </button>}
-        </div>
+        {mode !== "validate" && (
+          <div className="action-row">
+            <button className="button secondary" onClick={reset} disabled={processing}><RotateCcw size={18} /> Zuruecksetzen</button>
+            {mode === "excel" && <button className="button primary process-button inline" onClick={submit} disabled={processing}>
+              {processing ? <LoaderCircle className="spin" size={18} /> : <MailSearch size={18} />}
+              {processing ? "Suche laeuft" : "E-Mails suchen"}
+            </button>}
+          </div>
+        )}
       </section>
 
       {domainResult && mode === "domain" && (
@@ -200,14 +210,19 @@ export function EmailFinderWorkspace() {
             <div className="preview-header"><h3>{domainResult.domain}</h3><span>{domainResult.contacts.length} Treffer</span></div>
             <div className="table-wrap">
               <table>
-                <thead><tr><th>E-Mail</th><th>Ansprechpartner</th><th>Jobbezeichnung</th><th>Quelle</th><th>Aktion</th></tr></thead>
+                <thead><tr><th>E-Mail</th><th>Ansprechpartner</th><th>Jobbezeichnung</th><th>Sicherheit</th><th>Quelle</th><th>Aktion</th></tr></thead>
                 <tbody>
-                  {domainResult.contacts.length === 0 && <tr><td colSpan={5}>Keine oeffentliche E-Mail-Adresse gefunden.</td></tr>}
+                  {domainResult.contacts.length === 0 && <tr><td colSpan={6}>Keine oeffentliche E-Mail-Adresse gefunden.</td></tr>}
                   {domainResult.contacts.map((contact) => (
                     <tr key={`${contact.email}-${contact.quelle}`}>
                       <td>{contact.email}</td>
                       <td>{contact.ansprechpartner || "-"}</td>
                       <td>{contact.jobbezeichnung || "-"}</td>
+                      <td>
+                        {typeof contact.confidenceScore === "number" ? `${contact.confidenceScore}%` : "-"}
+                        {contact.isVerified && <span className="tag-badge verified" title="Domain hat gueltige MX-Records"> · MX</span>}
+                        {contact.isGenerated && <span className="tag-badge guessed" title="Aus Muster generiert, nicht bestaetigt"> · geraten</span>}
+                      </td>
                       <td><a className="table-link" href={contact.quelle} target="_blank" rel="noreferrer">{contact.quelle}</a></td>
                       <td><button className="button secondary small-button" onClick={() => copyText(contact.email, contact.email)}><Clipboard size={14} /> Kopieren</button></td>
                     </tr>

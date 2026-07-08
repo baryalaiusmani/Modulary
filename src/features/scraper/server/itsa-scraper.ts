@@ -1,6 +1,7 @@
 import { chromium, type BrowserContext, type Page } from "playwright-core";
 import type { ItsaExhibitor, ItsaScanPhase, ItsaScanResult } from "@/features/scraper/types";
 import { exhibitorKey, readKnownExhibitors } from "@/features/scraper/server/itsa-store";
+import { acceptItsaCookies } from "@/features/scraper/server/itsa-browser";
 
 const DEFAULT_CHROME_PATH = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe";
 const LIST_LINK_SELECTOR = 'a[href*="/aussteller/"]';
@@ -62,17 +63,9 @@ function extractContactPerson(bodyText: string) {
   return /website|kontakt|e-mail|telefon|halle|stand/i.test(candidate) ? "" : candidate;
 }
 
-async function rejectConsentIfVisible(page: Page) {
-  const rejectConsent = page.locator(".cmpboxbtnno");
-  if ((await rejectConsent.count()) && (await rejectConsent.isVisible())) {
-    await rejectConsent.click();
-    await page.waitForTimeout(250);
-  }
-}
-
 async function collectProfileLinks(page: Page, listUrl: string) {
   await page.goto(listUrl, { waitUntil: "domcontentloaded", timeout: 90_000 });
-  await rejectConsentIfVisible(page);
+  await acceptItsaCookies(page);
   await page.locator(LIST_LINK_SELECTOR).first().waitFor({ state: "visible", timeout: 30_000 });
 
   const bodyText = await page.locator("body").innerText();
@@ -111,7 +104,7 @@ async function scrapeProfile(page: Page, profileUrl: string, scannedAt: string):
   for (let attempt = 1; attempt <= 3; attempt += 1) {
     try {
       await page.goto(profileUrl, { waitUntil: "domcontentloaded", timeout: 75_000 });
-      await rejectConsentIfVisible(page);
+      await acceptItsaCookies(page);
 
       const title = await page.title();
       const heading = await page.locator("h1,h2").first().innerText().catch(() => "");

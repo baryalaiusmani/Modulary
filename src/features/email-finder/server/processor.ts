@@ -2,6 +2,8 @@ import ExcelJS from "exceljs";
 import { Readable } from "node:stream";
 import type { CellValue, DataRow } from "@/features/excel/types";
 import type { DomainCheckResult, EmailFinderResult, EmailFinderResultRow } from "@/features/email-finder/types";
+import { runDiscovery } from "@/features/email-finder/discovery";
+import { inferPersonAndRole } from "@/features/email-finder/discovery/name-role";
 
 const MAX_FILE_SIZE = 15 * 1024 * 1024;
 const allowedExtensions = new Set(["xlsx", "csv"]);
@@ -197,27 +199,6 @@ function extractLinks(html: string, baseUrl: string, host: string) {
   }));
 }
 
-function inferName(context: string, email: string) {
-  const local = email.split("@")[0].replace(/[._-]+/g, " ");
-  const localParts = local.split(/\s+/).filter((part) => part.length > 1);
-  const localCandidate = localParts.length >= 2
-    ? localParts.map((part) => part.charAt(0).toUpperCase() + part.slice(1)).join(" ")
-    : "";
-  if (localCandidate && !/info|kontakt|contact|sales|office|support|service|hello|mail/i.test(localCandidate)) return localCandidate;
-
-  const nameMatch = context.match(/\b([A-ZÄÖÜ][a-zäöüß-]{2,}\s+[A-ZÄÖÜ][a-zäöüß-]{2,}(?:\s+[A-ZÄÖÜ][a-zäöüß-]{2,})?)\b/);
-  return nameMatch?.[1] ?? "";
-}
-
-function inferJobTitle(context: string) {
-  const roles = [
-    "Geschäftsführer", "Geschaeftsfuehrer", "CEO", "Founder", "Co-Founder", "Sales Manager",
-    "Marketing Manager", "Head of Sales", "Head of Marketing", "Account Manager", "Director",
-    "Business Development", "Ansprechpartner", "Kontaktperson", "Vertrieb", "Presse",
-  ];
-  return roles.find((role) => new RegExp(role, "i").test(context)) || "";
-}
-
 function sourceCandidates(domain: string) {
   const clean = cleanDomain(domain);
   const host = clean.split("/")[0];
@@ -314,12 +295,11 @@ async function findEmailsForDomain(domain: string, options: CrawlOptions = {}): 
       if (contacts.has(email)) continue;
       const index = text.toLowerCase().indexOf(email.toLowerCase());
       const context = index >= 0 ? text.slice(Math.max(0, index - 180), index + 180) : text.slice(0, 360);
-      contacts.set(email, {
-        email,
-        name: inferName(context, email),
-        jobTitle: inferJobTitle(context),
-        source: url,
-      });
+      const { name, jobTitle } = ((): { name: string; jobTitle: string } => {
+        const person = inferPersonAndRole(text, context, email);
+        return { name: person.name, jobTitle: person.role };
+      })();
+      contacts.set(email, { email, name, jobTitle, source: url });
     }
   }
 
@@ -330,16 +310,32 @@ export async function checkDomainForEmails(rawDomain: string): Promise<DomainChe
   const domain = cleanDomain(rawDomain);
   if (!domain) throw new Error("Bitte geben Sie eine Domain ein.");
 
+  // 1) Bestehende Website-Suche (unveraendert) liefert die Basis-Treffer.
   const contacts = await findEmailsForDomain(domain, { maxPages: MAX_DOMAIN_CHECK_PAGES, maxContacts: 250 });
+
+  // 2) Modulare Discovery reichert an: verifiziert (MX), bewertet und ergaenzt
+  //    optional aktivierte Zusatzquellen. Bestehende Treffer bleiben erhalten.
+  const { findings } = await runDiscovery(domain, contacts.map((contact) => ({
+    email: contact.email,
+    name: contact.name,
+    jobTitle: contact.jobTitle,
+    source: contact.source,
+  })));
+
   return {
     domain,
     checkedAt: new Date().toISOString(),
-    foundEmails: contacts.length,
-    contacts: contacts.map((contact) => ({
-      email: contact.email,
-      ansprechpartner: contact.name,
-      jobbezeichnung: contact.jobTitle,
-      quelle: contact.source,
+    foundEmails: findings.length,
+    contacts: findings.map((finding) => ({
+      email: finding.email,
+      ansprechpartner: finding.relatedPersonName,
+      jobbezeichnung: finding.relatedPersonRole,
+      quelle: finding.sourceUrl,
+      confidenceScore: finding.confidenceScore,
+      sourceType: finding.sourceType,
+      isVerified: finding.isVerified,
+      isGenerated: finding.isGenerated,
+      discoveryMethod: finding.discoveryMethod,
     })),
   };
 }

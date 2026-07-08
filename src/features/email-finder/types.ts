@@ -32,6 +32,13 @@ export type DomainCheckContact = {
   ansprechpartner: string;
   jobbezeichnung: string;
   quelle: string;
+  // Optionale Anreicherung aus der modularen Discovery. Aeltere Clients
+  // ignorieren diese Felder, daher bleibt die Struktur abwaertskompatibel.
+  confidenceScore?: number;
+  sourceType?: string;
+  isVerified?: boolean;
+  isGenerated?: boolean;
+  discoveryMethod?: string;
 };
 
 export type DomainCheckResult = {
